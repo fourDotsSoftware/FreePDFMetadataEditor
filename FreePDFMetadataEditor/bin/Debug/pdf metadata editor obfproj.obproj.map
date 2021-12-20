@@ -1,0 +1,1577 @@
+﻿<Mappings><Entry OldName="FreePDFMetadataEditor.ArgsHelper.FromWindowsExplorer" NewName="A.ce0bbbdf48950a4284043619a7893057d.c642c1450023ab31d168e70f7c1737258" />
+<Entry OldName="FreePDFMetadataEditor.CustomForm.LoadComplete" NewName="FreePDFMetadataEditor.CustomForm.c9a48a23aca5b2563c55cdec656cf3e51" />
+<Entry OldName="FreePDFMetadataEditor.CustomForm.tooltip" NewName="FreePDFMetadataEditor.CustomForm.ccfdb569d176a5edd24bf2086079a30b3" />
+<Entry OldName="FreePDFMetadataEditor.CustomForm.components" NewName="FreePDFMetadataEditor.CustomForm.c8e95be8e55b5a6e1941755151046eeb1" />
+<Entry OldName="FreePDFMetadataEditor.DownloadSuggestionsHelper.tsiDownloadRoot" NewName="A.cd3db260d5743b6fdbf1c9fc2826c24e2.c87176146d60e2602185e9dd3ec921810" />
+<Entry OldName="FreePDFMetadataEditor.DownloadSuggestionsHelper.Category" NewName="A.cd3db260d5743b6fdbf1c9fc2826c24e2.cda61ffabee1f0e563fc100a27a3e68bd" />
+<Entry OldName="FreePDFMetadataEditor.DownloadSuggestionsHelper.App" NewName="A.cd3db260d5743b6fdbf1c9fc2826c24e2.c1ae84d1dc5b87fe8727b52ca1ed1f9dd" />
+<Entry OldName="FreePDFMetadataEditor.DownloadSuggestionsHelper.Url" NewName="A.cd3db260d5743b6fdbf1c9fc2826c24e2.c8d9764bc9a38c847e321d4f02bed4aa1" />
+<Entry OldName="FreePDFMetadataEditor.frmDownloadUpdate._DownloadFile" NewName="FreePDFMetadataEditor.frmDownloadUpdate.cdfce2125bddd12fb185f597c6dcc4073" />
+<Entry OldName="FreePDFMetadataEditor.frmDownloadUpdate.components" NewName="FreePDFMetadataEditor.frmDownloadUpdate.c8e95be8e55b5a6e1941755151046eeb1" />
+<Entry OldName="FreePDFMetadataEditor.frmDownloadUpdate.pgBar" NewName="FreePDFMetadataEditor.frmDownloadUpdate.ce164c59f9765e860243618fe15cb3f1a" />
+<Entry OldName="FreePDFMetadataEditor.frmDownloadUpdate.btnCancelDownload" NewName="FreePDFMetadataEditor.frmDownloadUpdate.c5ddcac2e9b866718c11a0d0c7fa8a03b" />
+<Entry OldName="FreePDFMetadataEditor.frmDownloadUpdate.bwDownload" NewName="FreePDFMetadataEditor.frmDownloadUpdate.cba8c1e498254f7ec203ea344f3bcb8e1" />
+<Entry OldName="FreePDFMetadataEditor.frmDownloadUpdate.label1" NewName="FreePDFMetadataEditor.frmDownloadUpdate.cf04551e7f9706c8332a7fed3a53d5e78" />
+<Entry OldName="FreePDFMetadataEditor.frmDownloadUpdate.lblTotalSize" NewName="FreePDFMetadataEditor.frmDownloadUpdate.cbac9cc4aab889b2c9a6976085838dfde" />
+<Entry OldName="FreePDFMetadataEditor.frmMultipleFiles.BatchJoin" NewName="FreePDFMetadataEditor.frmMultipleFiles.cbc0f3fead0bfa927462d565f3bf134c3" />
+<Entry OldName="FreePDFMetadataEditor.frmMultipleFiles.components" NewName="FreePDFMetadataEditor.frmMultipleFiles.c8e95be8e55b5a6e1941755151046eeb1" />
+<Entry OldName="FreePDFMetadataEditor.frmMultipleFiles.lblBatchJoin" NewName="FreePDFMetadataEditor.frmMultipleFiles.cfc5803a7182cef1ae438672ba41c3782" />
+<Entry OldName="FreePDFMetadataEditor.frmMultipleFiles.btnCancel" NewName="FreePDFMetadataEditor.frmMultipleFiles.ca0f9ffc602709b77c4239afa6da148c1" />
+<Entry OldName="FreePDFMetadataEditor.frmMultipleFiles.btnOK" NewName="FreePDFMetadataEditor.frmMultipleFiles.c37d28aeaa0beeec0010489e1be6c8348" />
+<Entry OldName="FreePDFMetadataEditor.frmMultipleFiles.label2" NewName="FreePDFMetadataEditor.frmMultipleFiles.c6c09dc7b4fa46c33d9839efa84ebc450" />
+<Entry OldName="FreePDFMetadataEditor.frmMultipleFiles.btnBrowse" NewName="FreePDFMetadataEditor.frmMultipleFiles.c66e8c53dfd2a404bcc2f2e47c52fddfe" />
+<Entry OldName="FreePDFMetadataEditor.frmMultipleFiles.openFileDialog1" NewName="FreePDFMetadataEditor.frmMultipleFiles.ced43beb56228b96220bf40072029f738" />
+<Entry OldName="FreePDFMetadataEditor.frmPromotion.components" NewName="FreePDFMetadataEditor.frmPromotion.c8e95be8e55b5a6e1941755151046eeb1" />
+<Entry OldName="FreePDFMetadataEditor.frmPromotion.label1" NewName="FreePDFMetadataEditor.frmPromotion.cf04551e7f9706c8332a7fed3a53d5e78" />
+<Entry OldName="FreePDFMetadataEditor.frmPromotion.lnkPromotion" NewName="FreePDFMetadataEditor.frmPromotion.c652813d1c93640f8c84a6af235b04073" />
+<Entry OldName="FreePDFMetadataEditor.frmPromotion.picPromotion" NewName="FreePDFMetadataEditor.frmPromotion.c8d23c5263185cf7501dc01d2da98cd54" />
+<Entry OldName="FreePDFMetadataEditor.frmPromotion.btnOK" NewName="FreePDFMetadataEditor.frmPromotion.c37d28aeaa0beeec0010489e1be6c8348" />
+<Entry OldName="FreePDFMetadataEditor.frmSettings.InitialChoice" NewName="FreePDFMetadataEditor.frmSettings.cab49605f059982f97ca214eb037b15d5" />
+<Entry OldName="FreePDFMetadataEditor.frmSettings.components" NewName="FreePDFMetadataEditor.frmSettings.c8e95be8e55b5a6e1941755151046eeb1" />
+<Entry OldName="FreePDFMetadataEditor.frmSettings.btnOK" NewName="FreePDFMetadataEditor.frmSettings.c37d28aeaa0beeec0010489e1be6c8348" />
+<Entry OldName="FreePDFMetadataEditor.frmSettings.btnCancel" NewName="FreePDFMetadataEditor.frmSettings.ca0f9ffc602709b77c4239afa6da148c1" />
+<Entry OldName="FreePDFMetadataEditor.frmSettings.chkAllowSharing" NewName="FreePDFMetadataEditor.frmSettings.c6bc77277b0e35bcae6e11c8b4287f33f" />
+<Entry OldName="FreePDFMetadataEditor.frmSpecialItem.dtspecialitem" NewName="FreePDFMetadataEditor.frmSpecialItem.c2a6d610788c58eee7bcdeb275c46a917" />
+<Entry OldName="FreePDFMetadataEditor.frmSpecialItem.components" NewName="FreePDFMetadataEditor.frmSpecialItem.c8e95be8e55b5a6e1941755151046eeb1" />
+<Entry OldName="FreePDFMetadataEditor.frmSpecialItem.dgSpecialItem" NewName="FreePDFMetadataEditor.frmSpecialItem.c4a5c8a834d57012e138c57916722694a" />
+<Entry OldName="FreePDFMetadataEditor.frmSpecialItem.btnCancel" NewName="FreePDFMetadataEditor.frmSpecialItem.ca0f9ffc602709b77c4239afa6da148c1" />
+<Entry OldName="FreePDFMetadataEditor.frmSpecialItem.btnOK" NewName="FreePDFMetadataEditor.frmSpecialItem.c37d28aeaa0beeec0010489e1be6c8348" />
+<Entry OldName="FreePDFMetadataEditor.frmSpecialItem.dataGridViewTextBoxColumn1" NewName="FreePDFMetadataEditor.frmSpecialItem.c641761e02a2acf4a43970762e90aa649" />
+<Entry OldName="FreePDFMetadataEditor.frmSpecialItem.colSpecialValue" NewName="FreePDFMetadataEditor.frmSpecialItem.cb2e02becaef8a77f17f0c373a63db7b4" />
+<Entry OldName="FreePDFMetadataEditor.frmSpecialItem.txtReplace" NewName="FreePDFMetadataEditor.frmSpecialItem.c76122c0c17a8da21d7e0685c1f22ed0e" />
+<Entry OldName="FreePDFMetadataEditor.frmSpecialItem.grpFind" NewName="FreePDFMetadataEditor.frmSpecialItem.cabcd84a192566e69230f30309de20c27" />
+<Entry OldName="FreePDFMetadataEditor.frmSpecialItem.label3" NewName="FreePDFMetadataEditor.frmSpecialItem.c9de463765ef0c8d8b68d144102a308b0" />
+<Entry OldName="FreePDFMetadataEditor.frmSpecialItem.btnInsert" NewName="FreePDFMetadataEditor.frmSpecialItem.c7d0cffbfb3d95fed4060927b41f1a2ce" />
+<Entry OldName="FreePDFMetadataEditor.frmSpecialItem.label2" NewName="FreePDFMetadataEditor.frmSpecialItem.c6c09dc7b4fa46c33d9839efa84ebc450" />
+<Entry OldName="FreePDFMetadataEditor.frmSpecialItem.txtReplaceMatchGroup" NewName="FreePDFMetadataEditor.frmSpecialItem.ce4f9bcc3498956d3c4f69989635ffb34" />
+<Entry OldName="FreePDFMetadataEditor.frmSpecialItem.chkFind" NewName="FreePDFMetadataEditor.frmSpecialItem.cb72e3823a76039fdfbf308387bcd3baf" />
+<Entry OldName="FreePDFMetadataEditor.frmSpecialItem.txtFind" NewName="FreePDFMetadataEditor.frmSpecialItem.c72769f93b446fc31166efa985b5bb6b4" />
+<Entry OldName="FreePDFMetadataEditor.frmSpecialItem.label1" NewName="FreePDFMetadataEditor.frmSpecialItem.cf04551e7f9706c8332a7fed3a53d5e78" />
+<Entry OldName="FreePDFMetadataEditor.frmSpecialItem.chkSpecialItem" NewName="FreePDFMetadataEditor.frmSpecialItem.c5d18cac55e09eb8145dafb8c019c7f68" />
+<Entry OldName="FreePDFMetadataEditor.frmSpecialItem.chkWildcards" NewName="FreePDFMetadataEditor.frmSpecialItem.c678202e182f3409c66a128b46fba1240" />
+<Entry OldName="FreePDFMetadataEditor.frmSpecialItem.chkRegExp" NewName="FreePDFMetadataEditor.frmSpecialItem.ca6e2a6d55432bc56a58e0749abf29b15" />
+<Entry OldName="FreePDFMetadataEditor.MetadataHelper.Title" NewName="A.cbb8cf473fa9dc408532176f3e790515a.c27b42d5d31f55f90eb80fd4e950e446b" />
+<Entry OldName="FreePDFMetadataEditor.MetadataHelper.Author" NewName="A.cbb8cf473fa9dc408532176f3e790515a.c59e4901fb16182140c893d91e6dca3b7" />
+<Entry OldName="FreePDFMetadataEditor.MetadataHelper.Subject" NewName="A.cbb8cf473fa9dc408532176f3e790515a.c18f824cbea8fc9fc00a162363f8de747" />
+<Entry OldName="FreePDFMetadataEditor.MetadataHelper.Keywords" NewName="A.cbb8cf473fa9dc408532176f3e790515a.c0f4d9c9aac4a67e7ba9f188676771bb5" />
+<Entry OldName="FreePDFMetadataEditor.MetadataHelper.CreationDate" NewName="A.cbb8cf473fa9dc408532176f3e790515a.cd0ccbb4d3dda8c66d6731f825a09c3ca" />
+<Entry OldName="FreePDFMetadataEditor.MetadataHelper.ModificationDate" NewName="A.cbb8cf473fa9dc408532176f3e790515a.ce695c8a377f0bc878778ac5dc0e297bc" />
+<Entry OldName="FreePDFMetadataEditor.MetadataHelper.Creator" NewName="A.cbb8cf473fa9dc408532176f3e790515a.c795cf0ac687180631f7e157f792b2456" />
+<Entry OldName="FreePDFMetadataEditor.MetadataHelper.SetDocInfo" NewName="A.cbb8cf473fa9dc408532176f3e790515a.c1cd1f09f6bc00544cf00364cffbdf05e" />
+<Entry OldName="FreePDFMetadataEditor.MetadataHelper.CANCELLED" NewName="A.cbb8cf473fa9dc408532176f3e790515a.c3ace9f52fb946da88b72fa078cbb9ee6" />
+<Entry OldName="FreePDFMetadataEditor.MetadataHelper.DefaultPassword" NewName="A.cbb8cf473fa9dc408532176f3e790515a.ccf4566fb0559edeadac0621e152033c5" />
+<Entry OldName="FreePDFMetadataEditor.frmAbout.components" NewName="FreePDFMetadataEditor.frmAbout.c8e95be8e55b5a6e1941755151046eeb1" />
+<Entry OldName="FreePDFMetadataEditor.frmAbout.lblAbout" NewName="FreePDFMetadataEditor.frmAbout.c91197c04efa06f2dbc2aa3ee5364387f" />
+<Entry OldName="FreePDFMetadataEditor.frmAbout.btnClose" NewName="FreePDFMetadataEditor.frmAbout.c8dafcf55bcd5e3aabdad0a6ff32a70d6" />
+<Entry OldName="FreePDFMetadataEditor.frmAbout.pictureBox1" NewName="FreePDFMetadataEditor.frmAbout.cc371a08666a0adcb38b4163786a0b4f1" />
+<Entry OldName="FreePDFMetadataEditor.frmDocumentInfo.InputFile" NewName="FreePDFMetadataEditor.frmDocumentInfo.ceb5380cf1d9e88f307bfc42cfef3ed1e" />
+<Entry OldName="FreePDFMetadataEditor.frmDocumentInfo.Password" NewName="FreePDFMetadataEditor.frmDocumentInfo.c4c8b1800b1e7f5c6fccef5d8a9c38642" />
+<Entry OldName="FreePDFMetadataEditor.frmDocumentInfo.components" NewName="FreePDFMetadataEditor.frmDocumentInfo.c8e95be8e55b5a6e1941755151046eeb1" />
+<Entry OldName="FreePDFMetadataEditor.frmDocumentInfo.btnExit" NewName="FreePDFMetadataEditor.frmDocumentInfo.cea6055ae329ae904df749eadf3c1918f" />
+<Entry OldName="FreePDFMetadataEditor.frmDocumentInfo.btnOK" NewName="FreePDFMetadataEditor.frmDocumentInfo.c37d28aeaa0beeec0010489e1be6c8348" />
+<Entry OldName="FreePDFMetadataEditor.frmDocumentInfo.label1" NewName="FreePDFMetadataEditor.frmDocumentInfo.cf04551e7f9706c8332a7fed3a53d5e78" />
+<Entry OldName="FreePDFMetadataEditor.frmDocumentInfo.label2" NewName="FreePDFMetadataEditor.frmDocumentInfo.c6c09dc7b4fa46c33d9839efa84ebc450" />
+<Entry OldName="FreePDFMetadataEditor.frmDocumentInfo.label3" NewName="FreePDFMetadataEditor.frmDocumentInfo.c9de463765ef0c8d8b68d144102a308b0" />
+<Entry OldName="FreePDFMetadataEditor.frmDocumentInfo.label4" NewName="FreePDFMetadataEditor.frmDocumentInfo.c168339364b7cf92486e9a9472d2835d8" />
+<Entry OldName="FreePDFMetadataEditor.frmDocumentInfo.label5" NewName="FreePDFMetadataEditor.frmDocumentInfo.ceda2c10997ec30af0b763fea24847490" />
+<Entry OldName="FreePDFMetadataEditor.frmDocumentInfo.label6" NewName="FreePDFMetadataEditor.frmDocumentInfo.cd558b281fcadda780e60a2a18e5c5944" />
+<Entry OldName="FreePDFMetadataEditor.frmDocumentInfo.label7" NewName="FreePDFMetadataEditor.frmDocumentInfo.c85cc05329516621d6f69445d7d4ccddf" />
+<Entry OldName="FreePDFMetadataEditor.frmDocumentInfo.grpCustomMetadata" NewName="FreePDFMetadataEditor.frmDocumentInfo.cdb57746bf2eadb9e9ae68d2f52465325" />
+<Entry OldName="FreePDFMetadataEditor.frmDocumentInfo.dgCustomMetadata" NewName="FreePDFMetadataEditor.frmDocumentInfo.caaef603bef5a21f4e17148c4758c2330" />
+<Entry OldName="FreePDFMetadataEditor.frmDocumentInfo.dataGridViewTextBoxColumn1" NewName="FreePDFMetadataEditor.frmDocumentInfo.c641761e02a2acf4a43970762e90aa649" />
+<Entry OldName="FreePDFMetadataEditor.frmDocumentInfo.dataGridViewTextBoxColumn2" NewName="FreePDFMetadataEditor.frmDocumentInfo.cc9ba290d58e92ac2e5b1b1eb5124d585" />
+<Entry OldName="FreePDFMetadataEditor.frmLanguage.components" NewName="FreePDFMetadataEditor.frmLanguage.c8e95be8e55b5a6e1941755151046eeb1" />
+<Entry OldName="FreePDFMetadataEditor.frmLanguage.label1" NewName="FreePDFMetadataEditor.frmLanguage.cf04551e7f9706c8332a7fed3a53d5e78" />
+<Entry OldName="FreePDFMetadataEditor.frmLanguage.cmbLanguage" NewName="FreePDFMetadataEditor.frmLanguage.c90857c283e03fa1b7bb4266e1b9befd7" />
+<Entry OldName="FreePDFMetadataEditor.frmLanguage.btnOK" NewName="FreePDFMetadataEditor.frmLanguage.c37d28aeaa0beeec0010489e1be6c8348" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.IsDragging" NewName="FreePDFMetadataEditor.frmMain.c8fd1c5f8695ab5025355621774777224" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.components" NewName="FreePDFMetadataEditor.frmMain.c8e95be8e55b5a6e1941755151046eeb1" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.menuStrip1" NewName="FreePDFMetadataEditor.frmMain.c07aeb9f561d1830564553a1d4885302e" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.fileToolStripMenuItem" NewName="FreePDFMetadataEditor.frmMain.cdad7f84efc593ed601013fa697530aa6" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.exitToolStripMenuItem" NewName="FreePDFMetadataEditor.frmMain.c8b91e8436a0da47ae6c0c6c689191701" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.helpToolStripMenuItem" NewName="FreePDFMetadataEditor.frmMain.cb5465e9a379bec6b67d1e20c7a530d58" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.helpGuideToolStripMenuItem" NewName="FreePDFMetadataEditor.frmMain.c39a85b9edee854abe34d3c5f4e217b68" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.aboutToolStripMenuItem" NewName="FreePDFMetadataEditor.frmMain.c5d958709c6a333b2eea4f6942c85d2a8" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.openFileDialog1" NewName="FreePDFMetadataEditor.frmMain.ced43beb56228b96220bf40072029f738" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.saveFileDialog1" NewName="FreePDFMetadataEditor.frmMain.c499fe770d8c2d568ace2e524e11e25a5" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.folderBrowserDialog1" NewName="FreePDFMetadataEditor.frmMain.c501bbb99e78964fd69251c1ceb3cffc9" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.tiHelpFeedback" NewName="FreePDFMetadataEditor.frmMain.c97fce235db96fc99e138a5f1be7a5edd" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.contextMenuStrip1" NewName="FreePDFMetadataEditor.frmMain.c24f6d69a3ce1c8a9e7907c1e3c98e59a" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.exploreToolStripMenuItem" NewName="FreePDFMetadataEditor.frmMain.c5598f4dd690671cc47a38e2e92641f71" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.toolStripMenuItem1" NewName="FreePDFMetadataEditor.frmMain.c5c53c4eb47e0cabddb58492793d56d4d" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.dgFiles" NewName="FreePDFMetadataEditor.frmMain.c60e9827fbe1b6e1d371c44f220ab9cd9" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.downloadToolStripMenuItem" NewName="FreePDFMetadataEditor.frmMain.c47c8546293b80e6225c18413a0e4f3d3" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.visit4dotsSoftwareWebsiteToolStripMenuItem" NewName="FreePDFMetadataEditor.frmMain.cec22ff9287f55cfd9d2065e3ff6a4d77" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.languageToolStripMenuItem" NewName="FreePDFMetadataEditor.frmMain.c28c074f38424fe5bf09b4f67ee6404db" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.btnOpenFolder" NewName="FreePDFMetadataEditor.frmMain.c028d78a7045748fe2c6c0568a0232a0a" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.btnChangeFolder" NewName="FreePDFMetadataEditor.frmMain.cf3f72b5df4cb407e87e48efc9b40c3da" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.folderBrowserDialog2" NewName="FreePDFMetadataEditor.frmMain.cfbef62ba03d13e31a467ffc7035ba3ee" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.groupBox1" NewName="FreePDFMetadataEditor.frmMain.c583726874e32f44d9b75e8d80af380ad" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.toolStrip1" NewName="FreePDFMetadataEditor.frmMain.cdf20fb31dbe8126ba9895bfa90ce0ac6" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.tsbAddFile" NewName="FreePDFMetadataEditor.frmMain.ca563b0fc4342a3d64ebf820887150c5b" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.tsbAddFolder" NewName="FreePDFMetadataEditor.frmMain.c8826deee9076b98fb86ba9973eabe705" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.tsbRemove" NewName="FreePDFMetadataEditor.frmMain.cb8b0f2d1a441b1c5b1ad38a2424a08aa" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.toolStripSeparator1" NewName="FreePDFMetadataEditor.frmMain.c596668887959e9298ddbca3a186e120d" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.tsbSetMetadata" NewName="FreePDFMetadataEditor.frmMain.ca73ce143f43470372f7843a19beb56de" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.toolTip1" NewName="FreePDFMetadataEditor.frmMain.c26e5e3f3a09926284701714895d4b8d7" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.grpCustomMetadata" NewName="FreePDFMetadataEditor.frmMain.cdb57746bf2eadb9e9ae68d2f52465325" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.dgCustomMetadata" NewName="FreePDFMetadataEditor.frmMain.caaef603bef5a21f4e17148c4758c2330" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.btnCustomDelete" NewName="FreePDFMetadataEditor.frmMain.cf55a5a8fe9ee4d707a629c5f4abc6ec2" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.btnCustomAdd" NewName="FreePDFMetadataEditor.frmMain.ca70ca63c1c7be3c5f34af93c73d17e2d" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.openToolStripMenuItem" NewName="FreePDFMetadataEditor.frmMain.c347a45a72090822a653691607d9fe352" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.colFilename" NewName="FreePDFMetadataEditor.frmMain.c079ea81f5f43a39603943583b2ca5a7d" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.colUserPassword" NewName="FreePDFMetadataEditor.frmMain.c7a1f220bbd06acd1aca12425a3b93e8f" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.colSize" NewName="FreePDFMetadataEditor.frmMain.c481e68e7ea2ab4f5cf3d9b06f42ef23c" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.colFileDate" NewName="FreePDFMetadataEditor.frmMain.cefd2f7ef0e3a77dadf5ed90258e426f4" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.colFullFilePath" NewName="FreePDFMetadataEditor.frmMain.c95b043299d80b78fcb4a169c7cd46b4d" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.label1" NewName="FreePDFMetadataEditor.frmMain.cf04551e7f9706c8332a7fed3a53d5e78" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.removeToolStripMenuItem" NewName="FreePDFMetadataEditor.frmMain.c6c3af9591a77f916c008f81e99c63ca4" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.followUsOnTwitterToolStripMenuItem" NewName="FreePDFMetadataEditor.frmMain.c226d30944b67bfc58080b740f0503ae1" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.btnInsertSpecial" NewName="FreePDFMetadataEditor.frmMain.c9635bc12de0372fe238d7ec2caee0157" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.dataGridViewTextBoxColumn1" NewName="FreePDFMetadataEditor.frmMain.c641761e02a2acf4a43970762e90aa649" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.dataGridViewTextBoxColumn2" NewName="FreePDFMetadataEditor.frmMain.cc9ba290d58e92ac2e5b1b1eb5124d585" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.documentsMedataToolStripMenuItem" NewName="FreePDFMetadataEditor.frmMain.ceb7e4da568c3c2a7ce14e57daf8fe74d" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.toolStripSeparator2" NewName="FreePDFMetadataEditor.frmMain.c858346fc22e16bbf0640d54b82951d6e" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.tsbDocumetMetadata" NewName="FreePDFMetadataEditor.frmMain.ccf7bd0564a8862903215278caeba48e8" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.btnSpecialTitle" NewName="FreePDFMetadataEditor.frmMain.cf0e087decdde0b5ab689551cab743f6b" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.btnSpecialCreator" NewName="FreePDFMetadataEditor.frmMain.c475575acdb76afc98ba4c022f941d8a7" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.btnSpecialKeywords" NewName="FreePDFMetadataEditor.frmMain.cf8a1a48a16eadf4dd5a59eb74ecb4b20" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.btnSpecialSubject" NewName="FreePDFMetadataEditor.frmMain.ce6c603f26d485233414f0251e163b6cc" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.btnSpecialAuthor" NewName="FreePDFMetadataEditor.frmMain.c65cd87d9522e003e4a43c15c5befcdfa" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.optionsToolStripMenuItem" NewName="FreePDFMetadataEditor.frmMain.c48aa1da83787a0dd3db47ef28434508b" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.keepFolderStructureToolStripMenuItem" NewName="FreePDFMetadataEditor.frmMain.ceec571daa08d186563db3e045517dd4b" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.tsbImportList" NewName="FreePDFMetadataEditor.frmMain.ce496ad74b3acfaddd344b25cbfe0e304" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.luminatiSettingsToolStripMenuItem" NewName="FreePDFMetadataEditor.frmMain.c98616e1733607872b2a2924b1b8bcd1b" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.editToolStripMenuItem" NewName="FreePDFMetadataEditor.frmMain.cbbe9bca7de558f20d9c30e7eb3a0cf31" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.removeToolStripMenuItem1" NewName="FreePDFMetadataEditor.frmMain.c5dce558323903571327a519e8ba90b4e" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.clearToolStripMenuItem" NewName="FreePDFMetadataEditor.frmMain.c3aadd93dd54795ef7d8d6211cba6a1c3" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.toolStripMenuItem2" NewName="FreePDFMetadataEditor.frmMain.cc161b5dbe4fe7a8f295bdc6d4956bf47" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.selectAllToolStripMenuItem" NewName="FreePDFMetadataEditor.frmMain.c76469c5f7b93064d3007e84a468c5d28" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.selectNoneToolStripMenuItem" NewName="FreePDFMetadataEditor.frmMain.c6441f11e5e14226de460dca19c56cbb3" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.invertSelectionToolStripMenuItem" NewName="FreePDFMetadataEditor.frmMain.c5ec86484032a4c7eb3c30b0482169941" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.addFilesToolStripMenuItem" NewName="FreePDFMetadataEditor.frmMain.c73bfe022e8a65ecabf854bf2e951b0bf" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.addFolderToolStripMenuItem" NewName="FreePDFMetadataEditor.frmMain.cff1358ded4ffad344de69e37315e45f1" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.toolStripMenuItem3" NewName="FreePDFMetadataEditor.frmMain.c05287208ce970dce7779631a7e7f0c7c" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.importListFormTextFileToolStripMenuItem" NewName="FreePDFMetadataEditor.frmMain.c7d24c20637ace03338e601489c174aa2" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.importListFromExcelFileToolStripMenuItem" NewName="FreePDFMetadataEditor.frmMain.c729d4cc4128b7e83592b869bc4deb800" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.enterFileListToolStripMenuItem" NewName="FreePDFMetadataEditor.frmMain.cbf44b256736df20b17b388b1fa0827f6" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.saveCurrentFileListToolStripMenuItem" NewName="FreePDFMetadataEditor.frmMain.c1a27b733336cf332f80ae5e10be1a753" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.toolStripMenuItem4" NewName="FreePDFMetadataEditor.frmMain.cbcad27195f176a9181ecb09239dda5ac" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.donateViaPaypalToolStripMenuItem" NewName="FreePDFMetadataEditor.frmMain.cf83452890048b189ee07d0c5c0586a2b" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.youtubeChannelToolStripMenuItem" NewName="FreePDFMetadataEditor.frmMain.c96b805d55d09b17f059028983f30a87b" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.checkForNewVersionEachWeekToolStripMenuItem" NewName="FreePDFMetadataEditor.frmMain.cebd496a56fddd485c9ea429ac571956e" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.exploreOutputFolderWhenDoneToolStripMenuItem" NewName="FreePDFMetadataEditor.frmMain.c0cd768d4ccbfacf873f835c9be46aada" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.keepCreationDateToolStripMenuItem" NewName="FreePDFMetadataEditor.frmMain.c351445eea9de76b5e7bce2bbd6ce5c7d" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.keepLastModificationDateToolStripMenuItem" NewName="FreePDFMetadataEditor.frmMain.c912b4b468a204003c9c38292067b4069" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.showMessageOnSucessToolStripMenuItem" NewName="FreePDFMetadataEditor.frmMain.c44ba290f7e04c4851166a998bddddc4e" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.toolsToolStripMenuItem" NewName="FreePDFMetadataEditor.frmMain.cc2b285c818b6bd1ef0064197d34ddf32" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.editMetadataToolStripMenuItem" NewName="FreePDFMetadataEditor.frmMain.cbaed91680a347600348c1eef22c7309e" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.tryOnlineVersionAtOnlinepdfappscomToolStripMenuItem" NewName="FreePDFMetadataEditor.frmMain.cecea3e60e06fc702264d10209791ccf0" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.commandLineArgumentsToolStripMenuItem" NewName="FreePDFMetadataEditor.frmMain.c0c9a7f38b2998f5af4d3b280ed8c9666" />
+<Entry OldName="FreePDFMetadataEditor.frmMessage.ForCommandLineArgs" NewName="FreePDFMetadataEditor.frmMessage.c5f66dfd370d33383e73c5179bb4b1c56" />
+<Entry OldName="FreePDFMetadataEditor.frmMessage.components" NewName="FreePDFMetadataEditor.frmMessage.c8e95be8e55b5a6e1941755151046eeb1" />
+<Entry OldName="FreePDFMetadataEditor.frmMessage.btnOK" NewName="FreePDFMetadataEditor.frmMessage.c37d28aeaa0beeec0010489e1be6c8348" />
+<Entry OldName="FreePDFMetadataEditor.frmMessage.btnCopy" NewName="FreePDFMetadataEditor.frmMessage.c0d8cb7d4f33b1dcf92445d45b5486b59" />
+<Entry OldName="FreePDFMetadataEditor.frmOutputSubFolder.components" NewName="FreePDFMetadataEditor.frmOutputSubFolder.c8e95be8e55b5a6e1941755151046eeb1" />
+<Entry OldName="FreePDFMetadataEditor.frmOutputSubFolder.btnOK" NewName="FreePDFMetadataEditor.frmOutputSubFolder.c37d28aeaa0beeec0010489e1be6c8348" />
+<Entry OldName="FreePDFMetadataEditor.frmOutputSubFolder.btnCancel" NewName="FreePDFMetadataEditor.frmOutputSubFolder.ca0f9ffc602709b77c4239afa6da148c1" />
+<Entry OldName="FreePDFMetadataEditor.frmOutputSubFolder.label1" NewName="FreePDFMetadataEditor.frmOutputSubFolder.cf04551e7f9706c8332a7fed3a53d5e78" />
+<Entry OldName="FreePDFMetadataEditor.frmPassword.InputFile" NewName="FreePDFMetadataEditor.frmPassword.ceb5380cf1d9e88f307bfc42cfef3ed1e" />
+<Entry OldName="FreePDFMetadataEditor.frmPassword.components" NewName="FreePDFMetadataEditor.frmPassword.c8e95be8e55b5a6e1941755151046eeb1" />
+<Entry OldName="FreePDFMetadataEditor.frmPassword.btnOK" NewName="FreePDFMetadataEditor.frmPassword.c37d28aeaa0beeec0010489e1be6c8348" />
+<Entry OldName="FreePDFMetadataEditor.frmPassword.label1" NewName="FreePDFMetadataEditor.frmPassword.cf04551e7f9706c8332a7fed3a53d5e78" />
+<Entry OldName="FreePDFMetadataEditor.frmPassword.btnCancel" NewName="FreePDFMetadataEditor.frmPassword.ca0f9ffc602709b77c4239afa6da148c1" />
+<Entry OldName="FreePDFMetadataEditor.frmProgress.components" NewName="FreePDFMetadataEditor.frmProgress.c8e95be8e55b5a6e1941755151046eeb1" />
+<Entry OldName="FreePDFMetadataEditor.frmProgress.progressBar1" NewName="FreePDFMetadataEditor.frmProgress.c019f08d7b0fd018ef32da5f48a0e99c9" />
+<Entry OldName="FreePDFMetadataEditor.frmProgress.label1" NewName="FreePDFMetadataEditor.frmProgress.cf04551e7f9706c8332a7fed3a53d5e78" />
+<Entry OldName="FreePDFMetadataEditor.frmProgress.btnCancel" NewName="FreePDFMetadataEditor.frmProgress.ca0f9ffc602709b77c4239afa6da148c1" />
+<Entry OldName="FreePDFMetadataEditor.frmUninstallQuestionnaire.OnUninstall" NewName="FreePDFMetadataEditor.frmUninstallQuestionnaire.c544bf4418869fa760718f2f7bc38eb81" />
+<Entry OldName="FreePDFMetadataEditor.frmUninstallQuestionnaire.components" NewName="FreePDFMetadataEditor.frmUninstallQuestionnaire.c8e95be8e55b5a6e1941755151046eeb1" />
+<Entry OldName="FreePDFMetadataEditor.frmUninstallQuestionnaire.label1" NewName="FreePDFMetadataEditor.frmUninstallQuestionnaire.cf04551e7f9706c8332a7fed3a53d5e78" />
+<Entry OldName="FreePDFMetadataEditor.frmUninstallQuestionnaire.label2" NewName="FreePDFMetadataEditor.frmUninstallQuestionnaire.c6c09dc7b4fa46c33d9839efa84ebc450" />
+<Entry OldName="FreePDFMetadataEditor.frmUninstallQuestionnaire.label3" NewName="FreePDFMetadataEditor.frmUninstallQuestionnaire.c9de463765ef0c8d8b68d144102a308b0" />
+<Entry OldName="FreePDFMetadataEditor.frmUninstallQuestionnaire.btnOK" NewName="FreePDFMetadataEditor.frmUninstallQuestionnaire.c37d28aeaa0beeec0010489e1be6c8348" />
+<Entry OldName="FreePDFMetadataEditor.frmUninstallQuestionnaire.btnExit" NewName="FreePDFMetadataEditor.frmUninstallQuestionnaire.cea6055ae329ae904df749eadf3c1918f" />
+<Entry OldName="FreePDFMetadataEditor.frmUninstallQuestionnaire.txtLike" NewName="FreePDFMetadataEditor.frmUninstallQuestionnaire.c10200077be83c9347ff1c04e5a5550c2" />
+<Entry OldName="FreePDFMetadataEditor.frmUninstallQuestionnaire.txtBuy" NewName="FreePDFMetadataEditor.frmUninstallQuestionnaire.c2253fef6e37fe66da70db7552ad12725" />
+<Entry OldName="FreePDFMetadataEditor.frmUninstallQuestionnaire.label4" NewName="FreePDFMetadataEditor.frmUninstallQuestionnaire.c168339364b7cf92486e9a9472d2835d8" />
+<Entry OldName="FreePDFMetadataEditor.frmUninstallQuestionnaire.txtEmail" NewName="FreePDFMetadataEditor.frmUninstallQuestionnaire.c8f2c88fd9ce4306e3ad49f4e20986091" />
+<Entry OldName="FreePDFMetadataEditor.frmUninstallQuestionnaire.txtOpinion" NewName="FreePDFMetadataEditor.frmUninstallQuestionnaire.c51a325672a44507be94f3e7f1cf7a438" />
+<Entry OldName="FreePDFMetadataEditor.frmUninstallQuestionnaire.label5" NewName="FreePDFMetadataEditor.frmUninstallQuestionnaire.ceda2c10997ec30af0b763fea24847490" />
+<Entry OldName="FreePDFMetadataEditor.ImageComboBox.imageList" NewName="A.c9c2310813ed0c5fcb8bd13d593acb08b.cc34a428a54fbfd76a9090939809b8678" />
+<Entry OldName="FreePDFMetadataEditor.ComboBoxExItem._text" NewName="A.cc20272a34548cc177ac242936cf7ef1f.cdc72835c03051389bc0ac740ce018dd8" />
+<Entry OldName="FreePDFMetadataEditor.ComboBoxExItem._imageIndex" NewName="A.cc20272a34548cc177ac242936cf7ef1f.cb2e72aeff77eda65a0df367b4165e4c9" />
+<Entry OldName="FreePDFMetadataEditor.Module.ApplicationTitle" NewName="A.c20c30b2cc40dd34dff062f547acf860a.cd6c9f28cb7d1686d0bc231e8dc5b113b" />
+<Entry OldName="FreePDFMetadataEditor.Module.ShortApplicationTitle" NewName="A.c20c30b2cc40dd34dff062f547acf860a.cda13b987a71da65ecead2b563641f352" />
+<Entry OldName="FreePDFMetadataEditor.Module.DownloadURL" NewName="A.c20c30b2cc40dd34dff062f547acf860a.cf665421958a49549d60ba5a16d163ad0" />
+<Entry OldName="FreePDFMetadataEditor.Module.HelpURL" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c78471d8d527778cb10c6278a588b02b7" />
+<Entry OldName="FreePDFMetadataEditor.Module.LangURL" NewName="A.c20c30b2cc40dd34dff062f547acf860a.ca3d4a55390b38f039b59eb0343051ed1" />
+<Entry OldName="FreePDFMetadataEditor.Module.VersionURL" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c9de1b4fe40fa4705432d4e7922b89b0d" />
+<Entry OldName="FreePDFMetadataEditor.Module.StoreUrl" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c8f501aba68437dd7c2e7c85de6cc07d9" />
+<Entry OldName="FreePDFMetadataEditor.Module.SelectedLanguage" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c39e3d00b1966b78b961c780131ac491b" />
+<Entry OldName="FreePDFMetadataEditor.Module.args" NewName="A.c20c30b2cc40dd34dff062f547acf860a.cf92f31dcf1099dd77f84f57a9505d94b" />
+<Entry OldName="FreePDFMetadataEditor.Module.IsCommandLine" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c2d3e472c4c0a1ab8fea20277e3b4c822" />
+<Entry OldName="FreePDFMetadataEditor.Module.IsFromWindowsExplorer" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c51053c96a1e0253c219b96b98bcfc1e5" />
+<Entry OldName="FreePDFMetadataEditor.Module.UserDocumentsFolder" NewName="A.c20c30b2cc40dd34dff062f547acf860a.cab57792af4257f0b3f45d6c85f6b8adf" />
+<Entry OldName="FreePDFMetadataEditor.Module.CmdMerge" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c88ed6c880b51df3cbf24b9df832bb302" />
+<Entry OldName="FreePDFMetadataEditor.Module.CmdSplit" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c56a80b18839d71dd38320e215bdfe4f1" />
+<Entry OldName="FreePDFMetadataEditor.Module.CmdDelete" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c1ccf01d93a23610dc66535ba399601fb" />
+<Entry OldName="FreePDFMetadataEditor.Module.CmdExtract" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c65db15eedc8efcb1fbb0b2c0c75a7016" />
+<Entry OldName="FreePDFMetadataEditor.Module.CmdPageFrom" NewName="A.c20c30b2cc40dd34dff062f547acf860a.ce36537a6ebe78d24690aeefcf4c279fb" />
+<Entry OldName="FreePDFMetadataEditor.Module.CmdPageTo" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c528d0259c75572459ddb86504ca6dd22" />
+<Entry OldName="FreePDFMetadataEditor.Module.CmdPageOddFrom" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c2037192ca13b1900d33ace6d2177e688" />
+<Entry OldName="FreePDFMetadataEditor.Module.CmdPageOddTo" NewName="A.c20c30b2cc40dd34dff062f547acf860a.cebd20309a5c95dc2a63f202c3024dac9" />
+<Entry OldName="FreePDFMetadataEditor.Module.CmdPageEvenFrom" NewName="A.c20c30b2cc40dd34dff062f547acf860a.ce92ee79f7f214a8c2ab1832c725c00ec" />
+<Entry OldName="FreePDFMetadataEditor.Module.CmdPageEvenTo" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c9f9f23c3e2ca1c62ca30f2c9d8318e87" />
+<Entry OldName="FreePDFMetadataEditor.Module.CmdPageEvery" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c23ec36491d23130a8bf6700d523618e0" />
+<Entry OldName="FreePDFMetadataEditor.Module.CmdPageEveryFrom" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c84d5d4d029350e9e781dd142870a9620" />
+<Entry OldName="FreePDFMetadataEditor.Module.CmdPageEveryTo" NewName="A.c20c30b2cc40dd34dff062f547acf860a.ccf1129a9ae215fb86efa170c17cf9fd9" />
+<Entry OldName="FreePDFMetadataEditor.Module.CmdPageRange" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c8575abe92fb85b12fb25a60f1196a2fc" />
+<Entry OldName="FreePDFMetadataEditor.Module.CmdPageContaining" NewName="A.c20c30b2cc40dd34dff062f547acf860a.cff9bb600378a656c9831bcea858f8b12" />
+<Entry OldName="FreePDFMetadataEditor.Module.CmdTitle" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c1fc9a1892808975da0e4b74982fcfb97" />
+<Entry OldName="FreePDFMetadataEditor.Module.CmdAuthor" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c81dfed89de4a2f958660ee37a5f93527" />
+<Entry OldName="FreePDFMetadataEditor.Module.CmdKeywords" NewName="A.c20c30b2cc40dd34dff062f547acf860a.ca504fac144ce59f91e70c3c8a60dfe74" />
+<Entry OldName="FreePDFMetadataEditor.Module.CmdSubject" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c400e8d3529d10c47f2da1594d676c107" />
+<Entry OldName="FreePDFMetadataEditor.Module.CmdOwnerPassword" NewName="A.c20c30b2cc40dd34dff062f547acf860a.cd4b3d88ab6a27f8d899ca720f466b5fe" />
+<Entry OldName="FreePDFMetadataEditor.Module.CmdUserPassword" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c170637aba965ce7867ed1815e0a32328" />
+<Entry OldName="FreePDFMetadataEditor.Module.CmdOutputFile" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c02d72ca498c305de68a6733455774270" />
+<Entry OldName="FreePDFMetadataEditor.Module.CmdOutputFolder" NewName="A.c20c30b2cc40dd34dff062f547acf860a.cb6a2f2951b604705ac5449fd6e6186cc" />
+<Entry OldName="FreePDFMetadataEditor.Module.CmdHeaderText" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c661ebdb2e68d57a3987bd435332cfb3b" />
+<Entry OldName="FreePDFMetadataEditor.Module.CmdFooterText" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c5ff53f9df19399eb8ae21df5e465f18a" />
+<Entry OldName="FreePDFMetadataEditor.Module.CmdSplitBookmarks" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c30f547cf7a1df77d2aad467c5313429b" />
+<Entry OldName="FreePDFMetadataEditor.Module.CmdSplitBlank" NewName="A.c20c30b2cc40dd34dff062f547acf860a.cea19c88e401b30fe8d450218c1f6b751" />
+<Entry OldName="FreePDFMetadataEditor.Module.CmdAddSubdirectories" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c08fed7cfec3c22c979ffdd18b45b67e9" />
+<Entry OldName="FreePDFMetadataEditor.Module.CmdFiles" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c30635c1b548c851d891be511ec7807a7" />
+<Entry OldName="FreePDFMetadataEditor.Module.SelectedFilepaths" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c723b2e939567a31b3a7591ec2a7505d5" />
+<Entry OldName="FreePDFMetadataEditor.Module.SelectedOperations" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c9fd3ac49db368db9ce0eb0b575b0f294" />
+<Entry OldName="FreePDFMetadataEditor.Module.SelectedParameters" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c52aba898701ae4226debb83fef49b994" />
+<Entry OldName="FreePDFMetadataEditor.Module.PresetFile" NewName="A.c20c30b2cc40dd34dff062f547acf860a.cc9556d55ea034e9f8bf201c804751635" />
+<Entry OldName="FreePDFMetadataEditor.Module.ImageFilter" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c7ee96aaecf869c5826e633de4bace256" />
+<Entry OldName="FreePDFMetadataEditor.Module.ImageFilterForSave" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c1a687c23604657d905d4b850d5d15578" />
+<Entry OldName="FreePDFMetadataEditor.Module.DialogFilesFilter" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c4c45b40748fc1ce300f7edca639ccda4" />
+<Entry OldName="FreePDFMetadataEditor.Module.ImagePattern" NewName="A.c20c30b2cc40dd34dff062f547acf860a.cc0428381214e087526a4c781680d719f" />
+<Entry OldName="FreePDFMetadataEditor.Module.DoNotOverwriteFiles" NewName="A.c20c30b2cc40dd34dff062f547acf860a.ce949cd0079cb99d47f0c623020ec2ed2" />
+<Entry OldName="FreePDFMetadataEditor.Module.AskBeforeOverwrite" NewName="A.c20c30b2cc40dd34dff062f547acf860a.ceda5003723d2100d21d05490607edac9" />
+<Entry OldName="FreePDFMetadataEditor.Module.LeaveSameDateTime" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c34165b8df9dab3eb23a2fcbb67159ca9" />
+<Entry OldName="FreePDFMetadataEditor.Module._Modex64" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c860e139dcccaaf8f373131a6e448d555" />
+<Entry OldName="FreePDFMetadataEditor.NiceLine.components" NewName="FreePDFMetadataEditor.NiceLine.c8e95be8e55b5a6e1941755151046eeb1" />
+<Entry OldName="FreePDFMetadataEditor.NiceLine._Caption" NewName="FreePDFMetadataEditor.NiceLine.c75dc418cd4839c10d61f15aed010a2a1" />
+<Entry OldName="FreePDFMetadataEditor.NiceLine._CaptionMarginSpace" NewName="FreePDFMetadataEditor.NiceLine.c4247fffa788fb9ff3337bef970973eb5" />
+<Entry OldName="FreePDFMetadataEditor.NiceLine._CaptionPadding" NewName="FreePDFMetadataEditor.NiceLine.c7612f35c75035b0e79b0d4304cf06567" />
+<Entry OldName="FreePDFMetadataEditor.NiceLine._LineVerticalAlign" NewName="FreePDFMetadataEditor.NiceLine.c49d84d861e7bda31b1b5c2c8d9bf2dba" />
+<Entry OldName="FreePDFMetadataEditor.NiceLine._CaptionOrizontalAlign" NewName="FreePDFMetadataEditor.NiceLine.c471aa2024a7fce612c439264ddfcaf68" />
+<Entry OldName="FreePDFMetadataEditor.Program.ATTACH_PARENT_PROCESS" NewName="A.ccc0b38fc99d3b860fbf5fc721612ef0f.c3f99ce0388329db5e44da4380391d3d3" />
+<Entry OldName="FreePDFMetadataEditor.Program.ERROR_ACCESS_DENIED" NewName="A.ccc0b38fc99d3b860fbf5fc721612ef0f.c998433a5d3f90acc82422d0ced6a71f9" />
+<Entry OldName="FreePDFMetadataEditor.ucTextProgressBar.WmPaint" NewName="FreePDFMetadataEditor.ucTextProgressBar.c8f26b447f70fc8aac43a825ce3816a2e" />
+<Entry OldName="FreePDFMetadataEditor.ucTextProgressBar.components" NewName="FreePDFMetadataEditor.ucTextProgressBar.c8e95be8e55b5a6e1941755151046eeb1" />
+<Entry OldName="FreePDFMetadataEditor.UpdateHelper.bwCheckVersion" NewName="FreePDFMetadataEditor.UpdateHelper.ca8618ccfe8af5c33eed172e0ec291055" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags.resourceMan" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c.cbcf6d532e02d970bc56f8f8b40319a25" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags.resourceCulture" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c.c263a3a704520bb9c6f24239a0ec26d19" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.resourceMan" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.cbcf6d532e02d970bc56f8f8b40319a25" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.resourceCulture" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.c263a3a704520bb9c6f24239a0ec26d19" />
+<Entry OldName="FreePDFMetadataEditor.TranslateHelper.rm" NewName="A.c6a45c4fc72b776a21afef9e2ec256541.c30bb40d71e565a38e4302dcb3b9e699b" />
+<Entry OldName="FreePDFMetadataEditor.Properties.Resources.resourceMan" NewName="A.ce852258c237f229450be9bfe33592430.cbcf6d532e02d970bc56f8f8b40319a25" />
+<Entry OldName="FreePDFMetadataEditor.Properties.Resources.resourceCulture" NewName="A.ce852258c237f229450be9bfe33592430.c263a3a704520bb9c6f24239a0ec26d19" />
+<Entry OldName="FreePDFMetadataEditor.ArgsHelper..ctor()" NewName="A.ce0bbbdf48950a4284043619a7893057d..ctor()" />
+<Entry OldName="FreePDFMetadataEditor.ArgsHelper..cctor()" NewName="A.ce0bbbdf48950a4284043619a7893057d..cctor()" />
+<Entry OldName="FreePDFMetadataEditor.ArgsHelper.ExamineArgs(String[] args)" NewName="A.ce0bbbdf48950a4284043619a7893057d.c015e817fd201e53ba5d4d826da309faa(String[] cf92f31dcf1099dd77f84f57a9505d94b)" />
+<Entry OldName="FreePDFMetadataEditor.ArgsHelper.GetParameter(String arg)" NewName="A.ce0bbbdf48950a4284043619a7893057d.ce7a227c49290c7e4a05877fe0cf12b21(String c66e3817b0d561bcd73093f15fdbe3d2c)" />
+<Entry OldName="FreePDFMetadataEditor.ArgsHelper.SplitArguments(String commandLine)" NewName="A.ce0bbbdf48950a4284043619a7893057d.cc0ff8e66f77c1df14694205e70e5658f(String cca384dd972e8ba3b2a4dd8799d968e68)" />
+<Entry OldName="FreePDFMetadataEditor.ArgsHelper.ShowCommandUsage()" NewName="A.ce0bbbdf48950a4284043619a7893057d.cc5bcabfa1704465479a5610a6361219a()" />
+<Entry OldName="FreePDFMetadataEditor.ArgsHelper.GetCommandUsage()" NewName="A.ce0bbbdf48950a4284043619a7893057d.ccd17219bd5bf365d3a6faf5b86abe39c()" />
+<Entry OldName="FreePDFMetadataEditor.CustomForm.CustomForm_Activated(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.CustomForm.c059bbecfc35d23726543aa2d1e8b5f04(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.CustomForm.ResizeChildControls(Control co)" NewName="FreePDFMetadataEditor.CustomForm.ccdd9201860589cff183a6b296ae7c38b(Control ce9f8b7c4ff0044f51df79277777fb319)" />
+<Entry OldName="FreePDFMetadataEditor.CustomForm.InitializeComponent()" NewName="FreePDFMetadataEditor.CustomForm.c096477e01c218252eef6bfb55d6a1f2e()" />
+<Entry OldName="FreePDFMetadataEditor.DownloadSuggestionsHelper..ctor()" NewName="A.cd3db260d5743b6fdbf1c9fc2826c24e2..ctor()" />
+<Entry OldName="FreePDFMetadataEditor.DownloadSuggestionsHelper.SetupDownloadMenuItems(ToolStripMenuItem tsiDownload)" NewName="A.cd3db260d5743b6fdbf1c9fc2826c24e2.c8c77dd85b10d14ce392984a6c5646799(ToolStripMenuItem c47c8c434f367c8fcffcb33ac9826fc37)" />
+<Entry OldName="FreePDFMetadataEditor.DownloadSuggestionsHelper.tsi_Click(Object sender, EventArgs e)" NewName="A.cd3db260d5743b6fdbf1c9fc2826c24e2.c018a026ef464c7e5f3c589d86249c477(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.ExcelImporter..ctor()" NewName="A.ca37b3a2e79998b648d3d501f83fb48e4..ctor()" />
+<Entry OldName="FreePDFMetadataEditor.ExcelImporter.ImportListExcel(String filepath)" NewName="A.ca37b3a2e79998b648d3d501f83fb48e4.c3648fe5a5dbfaf665a82b48843610eaf(String c304dc1807fb087129325e62e63088a47)" />
+<Entry OldName="FreePDFMetadataEditor.ExcelImporter.GetPart(String part)" NewName="A.ca37b3a2e79998b648d3d501f83fb48e4.c8676d1b311be3c7994538ee8eb81a3de(String ca4722587c1ddac4b85ad9db006f4c231)" />
+<Entry OldName="FreePDFMetadataEditor.frmDownloadUpdate.frmDownloadUpdate_Load(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmDownloadUpdate.c5c720fdd698e2729440ae973cb19428a(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmDownloadUpdate.client_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)" NewName="FreePDFMetadataEditor.frmDownloadUpdate.c90bd30fcdc821bdae14f1fee091a95f3(Object cf3abe9a4a34ecff179b70d3d31b5eef4, AsyncCompletedEventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmDownloadUpdate.client_DownloadProgressChanged(Object sender, DownloadProgressChangedEventArgs e)" NewName="FreePDFMetadataEditor.frmDownloadUpdate.c5eebc79c820ad41a4a823c132ca9060d(Object cf3abe9a4a34ecff179b70d3d31b5eef4, DownloadProgressChangedEventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmDownloadUpdate.btnCancelDownload_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmDownloadUpdate.cf7530dd6db6a1b5140e097341ccf6545(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmDownloadUpdate.InitializeComponent()" NewName="FreePDFMetadataEditor.frmDownloadUpdate.c096477e01c218252eef6bfb55d6a1f2e()" />
+<Entry OldName="FreePDFMetadataEditor.frmMultipleFiles.btnCancel_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMultipleFiles.cf17403a58f449735ed5bc34f0330efc3(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMultipleFiles.btnOK_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMultipleFiles.cc149b3d4bd6ea58f683d99268bbed8b1(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMultipleFiles.frmMultipleFiles_Load(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMultipleFiles.cbb86e3f9888feea62167e24d0c1d23a7(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMultipleFiles.frmMultipleFiles_Activated(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMultipleFiles.c8e460fb3f7e7b75bdf42f65138ac86c5(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMultipleFiles.btnBrowse_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMultipleFiles.c7a649a12d0b838c73a1bb53ce5e93d7a(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMultipleFiles.InitializeComponent()" NewName="FreePDFMetadataEditor.frmMultipleFiles.c096477e01c218252eef6bfb55d6a1f2e()" />
+<Entry OldName="FreePDFMetadataEditor.frmPromotion.picPromotion_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmPromotion.ca3083e7fef7f1c0009825e4925ed26f6(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmPromotion.VisitWebpage()" NewName="FreePDFMetadataEditor.frmPromotion.cbe67aacbd449df284362d8e8976973d9()" />
+<Entry OldName="FreePDFMetadataEditor.frmPromotion.lnkPromotion_LinkClicked(Object sender, LinkLabelLinkClickedEventArgs e)" NewName="FreePDFMetadataEditor.frmPromotion.c5913ec5efa4f880ed1e450156f739968(Object cf3abe9a4a34ecff179b70d3d31b5eef4, LinkLabelLinkClickedEventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmPromotion.btnOK_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmPromotion.cc149b3d4bd6ea58f683d99268bbed8b1(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmPromotion.InitializeComponent()" NewName="FreePDFMetadataEditor.frmPromotion.c096477e01c218252eef6bfb55d6a1f2e()" />
+<Entry OldName="FreePDFMetadataEditor.frmSettings.btnOK_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmSettings.cc149b3d4bd6ea58f683d99268bbed8b1(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmSettings.frmSettings_Load(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmSettings.c429b370fcd742409f0d22b1ea6bbae2f(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmSettings.btnCancel_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmSettings.cf17403a58f449735ed5bc34f0330efc3(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmSettings.InitializeComponent()" NewName="FreePDFMetadataEditor.frmSettings.c096477e01c218252eef6bfb55d6a1f2e()" />
+<Entry OldName="FreePDFMetadataEditor.frmSpecialItem.frmSpecialItem_Load(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmSpecialItem.ca4e9fc9ca874998597737037ab05497a(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmSpecialItem.btnOK_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmSpecialItem.cc149b3d4bd6ea58f683d99268bbed8b1(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmSpecialItem.dgSpecialItem_CellDoubleClick(Object sender, DataGridViewCellEventArgs e)" NewName="FreePDFMetadataEditor.frmSpecialItem.cea53486ef7dcd7646eed47bcc25a3d00(Object cf3abe9a4a34ecff179b70d3d31b5eef4, DataGridViewCellEventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmSpecialItem.chkSpecialItem_CheckedChanged(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmSpecialItem.cb8d3b59e2f940a6d773d22921200aa32(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmSpecialItem.chkFind_CheckedChanged(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmSpecialItem.c8ab54316194583999d1e529de454d59f(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmSpecialItem.btnInsert_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmSpecialItem.c5a8a0cac8b74b83eb021fa927f47f5c5(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmSpecialItem.chkRegExp_CheckedChanged(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmSpecialItem.c5b79a6cfddc241c2ab8a308dc682f21b(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmSpecialItem.chkWildcards_CheckedChanged(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmSpecialItem.c697715f7a00e35f89bbbd74cac6cc9e3(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmSpecialItem.InitializeComponent()" NewName="FreePDFMetadataEditor.frmSpecialItem.c096477e01c218252eef6bfb55d6a1f2e()" />
+<Entry OldName="FreePDFMetadataEditor.MetadataHelper..ctor()" NewName="A.cbb8cf473fa9dc408532176f3e790515a..ctor()" />
+<Entry OldName="FreePDFMetadataEditor.MetadataHelper..cctor()" NewName="A.cbb8cf473fa9dc408532176f3e790515a..cctor()" />
+<Entry OldName="FreePDFMetadataEditor.MetadataHelper.SetMetadataMultiplePDF(DataTable dt, Boolean clearMetadata)" NewName="A.cbb8cf473fa9dc408532176f3e790515a.c7e861fc81b05229ff1fbcfdb56407581(DataTable c402f52f984d68fe7b0ca65e2b203fd8a, Boolean c0235e0f881d2a74ca22b8640b0c141b9)" />
+<Entry OldName="FreePDFMetadataEditor.MetadataHelper.SetMetadataSinglePDF(String InputFile, String OutputFile, String Password, Boolean clearMetadata)" NewName="A.cbb8cf473fa9dc408532176f3e790515a.c8572765b04d30b2d0af0f7c6a67afcef(String ceb5380cf1d9e88f307bfc42cfef3ed1e, String c15fcea247592c4a042a0af0413864129, String c4c8b1800b1e7f5c6fccef5d8a9c38642, Boolean c0235e0f881d2a74ca22b8640b0c141b9)" />
+<Entry OldName="FreePDFMetadataEditor.MetadataHelper.GetSpecialValue(String field, Dictionary`2 info, String InputFile, String pattern)" NewName="A.cbb8cf473fa9dc408532176f3e790515a.c012208883347a2f35571417fd0416b7a(String c63e5a1f94ae8d25e9c285e6932759105, Dictionary`2 c5309b50d734a7c7f75d3592aac6d6074, String ceb5380cf1d9e88f307bfc42cfef3ed1e, String c98a3fbc1359bea2ea829a2604dbd5bca)" />
+<Entry OldName="FreePDFMetadataEditor.MetadataHelper.FindReplaceValue(String currentValue, String findPattern, String replaceTxt)" NewName="A.cbb8cf473fa9dc408532176f3e790515a.c2c5e84c3fea88a0ecfa8ef3370307604(String ca19f3da39abf8ae271f9c561aeaa0be1, String c9d5caf20f8be23d2e02ed85b0af25368, String c28eb4667d84e1dea8e0870453e5e228a)" />
+<Entry OldName="FreePDFMetadataEditor.ExceptionHandlersHelper..ctor()" NewName="A.cc6fbe0f559d8604f721239650ba59c5e..ctor()" />
+<Entry OldName="FreePDFMetadataEditor.ExceptionHandlersHelper.AddUnhandledExceptionHandlers()" NewName="A.cc6fbe0f559d8604f721239650ba59c5e.c76704eb6005b7baa993378bb26f71b87()" />
+<Entry OldName="FreePDFMetadataEditor.ExceptionHandlersHelper.myExceptionHandler(Object sender, UnhandledExceptionEventArgs e)" NewName="A.cc6fbe0f559d8604f721239650ba59c5e.c91feaa4851c05a94941d53c40a0abefc(Object cf3abe9a4a34ecff179b70d3d31b5eef4, UnhandledExceptionEventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.ExceptionHandlersHelper.myThreadExceptionHandler(Object sender, ThreadExceptionEventArgs e)" NewName="A.cc6fbe0f559d8604f721239650ba59c5e.c0270699e5c9bfca1f2cd226c0d8786d8(Object cf3abe9a4a34ecff179b70d3d31b5eef4, ThreadExceptionEventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmAbout.frmAbout_Load(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmAbout.c4c5f3c6601bb2ef47bbac05bac76f932(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmAbout.btnClose_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmAbout.cb1432d0b19c6415d9ad058929bee03d0(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmAbout.lblAdeia_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmAbout.c099cc2870d32bcdf598129cf10597984(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmAbout.InitializeComponent()" NewName="FreePDFMetadataEditor.frmAbout.c096477e01c218252eef6bfb55d6a1f2e()" />
+<Entry OldName="FreePDFMetadataEditor.frmDocumentInfo.btnExit_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmDocumentInfo.c82daae00f15351f2bf5f556e9ec3ae0c(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmDocumentInfo.btnOK_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmDocumentInfo.cc149b3d4bd6ea58f683d99268bbed8b1(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmDocumentInfo.GetDocumentMetadata(String InputFile, String Password)" NewName="FreePDFMetadataEditor.frmDocumentInfo.c49c8288dccf652bc2175fb016a1731c8(String ceb5380cf1d9e88f307bfc42cfef3ed1e, String c4c8b1800b1e7f5c6fccef5d8a9c38642)" />
+<Entry OldName="FreePDFMetadataEditor.frmDocumentInfo.frmDocumentInfo_Load(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmDocumentInfo.ca82b1e44b69d2be5a1b5632ba79a2943(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmDocumentInfo.InitializeComponent()" NewName="FreePDFMetadataEditor.frmDocumentInfo.c096477e01c218252eef6bfb55d6a1f2e()" />
+<Entry OldName="FreePDFMetadataEditor.frmLanguage.btnOK_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmLanguage.cc149b3d4bd6ea58f683d99268bbed8b1(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmLanguage.frmLanguage_Load(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmLanguage.c4731c8ed2a14dea2260a297a6cd02dc5(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmLanguage.InitializeComponent()" NewName="FreePDFMetadataEditor.frmLanguage.c096477e01c218252eef6bfb55d6a1f2e()" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.button1_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.cd344038f2320d109f8311ba37993a06e(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.AddVisual(String[] argsvisual)" NewName="FreePDFMetadataEditor.frmMain.cca038aa99d14d4c8df76232982888bf7(String[] c926516dc229c20e84f561fea78fa620f)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.SetupOutputFolders()" NewName="FreePDFMetadataEditor.frmMain.c2dbacc2e7d9c4504040da46d17ddc76b()" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.SetupOnLoad()" NewName="FreePDFMetadataEditor.frmMain.ca9759b622c4920ff7c07416bb290e902()" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.AdjustSizeLocation()" NewName="FreePDFMetadataEditor.frmMain.ca4494b6c4ec00c95f980a455d051e95e()" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.SaveSizeLocation()" NewName="FreePDFMetadataEditor.frmMain.c2913063cd662b8f46c2d9f073855b306()" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.frmMain_Load(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.c6e4b76baf311b64d4592fc7ed4623686(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.AddLanguageMenuItems()" NewName="FreePDFMetadataEditor.frmMain.cebd7208aba5bd3bd19623ed11bbb2361()" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.tiLang_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.c91d3716bc321c6c9bb7949cef793ec7c(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.ChangeLanguage(String language_code)" NewName="FreePDFMetadataEditor.frmMain.c83d2ed216bdfcf4580f9ef7d68ae1451(String ced006968d4eb2836fed5e4d70ad98374)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.aboutToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.cfc4ede5649cf5cce89be1d4dff2fe600(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.exitToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.c769c70566ad83b34d77bab2d5a947d0d(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.btnAddFiles_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.c0d826f73ef2ca93dc118472649a421b3(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.btnAddFolder_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.c48a45fa4b9fc19668e047ff319bbb25a(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.btnRemoveFile_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.c014b3bcfd41a3fd6b537c1e9ca8148e4(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.tiHelpFeedback_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.cba00a8c9cbf1efee52c98eb9cef85c60(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.openToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.c315d4d23531b2db84c4c073784f9f70c(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.buyNowToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.cac286d3237b1235ac50cbd0181c2f6ce(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.helpGuideToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.ce30ff9305859cd294284d061d3c3ec82(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.btnClearMerge_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.c3196d69bd83e3cd0049662710294b55f(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.btnSetMetadata_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.c6998ec6a986507d2033e28a22805e3b1(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.frmMain_Resize(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.c349549fc09cfa1e258e29d38a616f304(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.dgFiles_DragDrop(Object sender, DragEventArgs e)" NewName="FreePDFMetadataEditor.frmMain.cfdeb4201f45c13f3bf4da0a4feaa7b11(Object cf3abe9a4a34ecff179b70d3d31b5eef4, DragEventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.dgFiles_DragEnter(Object sender, DragEventArgs e)" NewName="FreePDFMetadataEditor.frmMain.ca792d419fc68aa073ae3daf8ea76f303(Object cf3abe9a4a34ecff179b70d3d31b5eef4, DragEventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.dgFiles_DragOver(Object sender, DragEventArgs e)" NewName="FreePDFMetadataEditor.frmMain.cb409bda052d5bdd87f9867ae8a37fb44(Object cf3abe9a4a34ecff179b70d3d31b5eef4, DragEventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.visit4dotsSoftwareWebsiteToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.c427f501cf4e52dcbe98aa6bb41e61730(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.btnOpenFolder_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.ce080cc6023a3909abccc09b62376fe40(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.btnChangeFolder_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.cef77933f76e3980ca3c7caeef99d285a(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.backgroundWorker1_DoWork(Object sender, DoWorkEventArgs e)" NewName="FreePDFMetadataEditor.frmMain.cce65523b823265c0831d90abbc6453ac(Object cf3abe9a4a34ecff179b70d3d31b5eef4, DoWorkEventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.frmMain_FormClosing(Object sender, FormClosingEventArgs e)" NewName="FreePDFMetadataEditor.frmMain.c4c04b98a103c46ae8449988b6af24182(Object cf3abe9a4a34ecff179b70d3d31b5eef4, FormClosingEventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.cmbOutputDir_SelectedIndexChanged(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.cfde799a085dcffd30b8d2e8d743ea805(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.btnCustomAdd_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.c4580319411e25a71b03160d6e7fbbfc6(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.btnCustomDelete_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.c95328561bfe7ad65a2518c477063904d(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.exploreToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.cfd4413e78aeb121ac4b68b3cb4096260(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.contextMenuStrip1_Opening(Object sender, CancelEventArgs e)" NewName="FreePDFMetadataEditor.frmMain.c841655745f32986c40e043cbe72c05a5(Object cf3abe9a4a34ecff179b70d3d31b5eef4, CancelEventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.chkTitle_CheckedChanged(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.c16bb077869678e81c4a299699a63dfef(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.chkAuthor_CheckedChanged(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.c6276d8623d24284414ffe8e503efee9c(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.chkSubject_CheckedChanged(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.c9ca4a0b8d4d6cbe880104ee33d1a14bc(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.chkKeywords_CheckedChanged(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.cfb41ae3f09b22db2e669b3bb9668f89c(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.chkCreator_CheckedChanged(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.c60b6cfe9e4c65f42847967879bed4f29(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.chkCreationDate_CheckedChanged(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.cdf84ab75d50472fccb1abb5e18334da9(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.chkModificationDate_CheckedChanged(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.ced247d39725a67206524513bef9968f3(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.followUsOnTwitterToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.c09123de263716e5beeb6a4d54a1ecdea(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.btnInsertSpecial_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.ca81a9566ec71f62de7bf53056d08f688(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.documentsMetadataToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.cb0ac37bcd260910c5bc489860d82bbcf(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.tsbDocumetMetadata_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.c6e1bec1387d915f1480a09996c1d69bc(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.btnSpecialTitle_Click_1(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.cd205ed7a76bebceefa34b36190506c2f(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.keepFolderStructureToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.c34e594cdc47c36ea84c12b5851002171(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.tsdbImportList_ButtonClick(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.cab01b1285b5a3955a9953aecf4c949dc(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.luminatiSettingsToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.cc6c3b5d448daefa8705e37eecd5acd25(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.selectAllToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.c54d92f9a0f948a4daf0f25cca1bd4621(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.selectNoneToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.c8d0283781060d272678154b7f34cf7f8(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.invertSelectionToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.c734e6f650c5b26df0787c91b6dd27804(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.importListFromExcelFileToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.c5698f4175a6b1044a1e7b756f76cd1e8(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.enterFileListToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.c86704cd394e49cec516d86189fa915e4(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.saveCurrentFileListToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.c347d89c460fd7c0cae60830d37f4263b(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.donateViaPaypalToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.c1db9d27bd9a87d13fe7f1647871b65f2(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.youtubeChannelToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.ceb8240649c88118f0a26ae76a1e0380a(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.tryOnlineVersionAtOnlinepdfappscomToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.cd0f66f349497140dd8fdafa328444b30(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.commandLineArgumentsToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMain.c2e9229beb7029e0b22e0cc4af4ce84ad(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMain.InitializeComponent()" NewName="FreePDFMetadataEditor.frmMain.c096477e01c218252eef6bfb55d6a1f2e()" />
+<Entry OldName="FreePDFMetadataEditor.frmMessage.btnOK_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMessage.cc149b3d4bd6ea58f683d99268bbed8b1(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMessage.frmMessage_Load(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMessage.c07f73dacd69a755c37aaccfb8aecbcc9(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMessage.btnCopy_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmMessage.c7ad53ed55006f0d03517c1e9ee126480(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmMessage.InitializeComponent()" NewName="FreePDFMetadataEditor.frmMessage.c096477e01c218252eef6bfb55d6a1f2e()" />
+<Entry OldName="FreePDFMetadataEditor.frmOutputSubFolder.btnCancel_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmOutputSubFolder.cf17403a58f449735ed5bc34f0330efc3(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmOutputSubFolder.btnOK_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmOutputSubFolder.cc149b3d4bd6ea58f683d99268bbed8b1(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmOutputSubFolder.frmOutputSubFolder_Load(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmOutputSubFolder.c7cc37f208c434006ea11fb97bcc58dd7(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmOutputSubFolder.InitializeComponent()" NewName="FreePDFMetadataEditor.frmOutputSubFolder.c096477e01c218252eef6bfb55d6a1f2e()" />
+<Entry OldName="FreePDFMetadataEditor.frmPassword.btnCancel_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmPassword.cf17403a58f449735ed5bc34f0330efc3(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmPassword.btnOK_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmPassword.cc149b3d4bd6ea58f683d99268bbed8b1(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmPassword.frmPassword_Load(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmPassword.cde8f1565efd4e4782271003284b15002(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmPassword.InitializeComponent()" NewName="FreePDFMetadataEditor.frmPassword.c096477e01c218252eef6bfb55d6a1f2e()" />
+<Entry OldName="FreePDFMetadataEditor.frmProgress.btnCancel_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmProgress.cf17403a58f449735ed5bc34f0330efc3(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmProgress.InitializeComponent()" NewName="FreePDFMetadataEditor.frmProgress.c096477e01c218252eef6bfb55d6a1f2e()" />
+<Entry OldName="FreePDFMetadataEditor.frmUninstallQuestionnaire.btnExit_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmUninstallQuestionnaire.c82daae00f15351f2bf5f556e9ec3ae0c(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmUninstallQuestionnaire.btnOK_Click(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmUninstallQuestionnaire.cc149b3d4bd6ea58f683d99268bbed8b1(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmUninstallQuestionnaire.frmUninstallQuestionnaire_Load(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmUninstallQuestionnaire.cc6cc3bbd636f8378c48c7d9ba24998e7(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmUninstallQuestionnaire.txtOpinion_TextChanged(Object sender, EventArgs e)" NewName="FreePDFMetadataEditor.frmUninstallQuestionnaire.cd241221991a2d0a527738939f07b3f32(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.frmUninstallQuestionnaire.InitializeComponent()" NewName="FreePDFMetadataEditor.frmUninstallQuestionnaire.c096477e01c218252eef6bfb55d6a1f2e()" />
+<Entry OldName="FreePDFMetadataEditor.ImageComboBox..ctor()" NewName="A.c9c2310813ed0c5fcb8bd13d593acb08b..ctor()" />
+<Entry OldName="FreePDFMetadataEditor.ImageComboBox.get_ImageList()" NewName="A.c9c2310813ed0c5fcb8bd13d593acb08b.get_c5089891a5aa447da7b180508aa2f96c5()" />
+<Entry OldName="FreePDFMetadataEditor.ImageComboBox.set_ImageList(ImageList value)" NewName="A.c9c2310813ed0c5fcb8bd13d593acb08b.set_c5089891a5aa447da7b180508aa2f96c5(ImageList cf22d8e8cd5d75c055b65d8ab3eabd4c7)" />
+<Entry OldName="FreePDFMetadataEditor.ImageComboBox.OnDrawItem(DrawItemEventArgs ea)" NewName="A.c9c2310813ed0c5fcb8bd13d593acb08b.OnDrawItem(DrawItemEventArgs ea)" />
+<Entry OldName="FreePDFMetadataEditor.ComboBoxExItem..ctor()" NewName="A.cc20272a34548cc177ac242936cf7ef1f..ctor()" />
+<Entry OldName="FreePDFMetadataEditor.ComboBoxExItem..ctor(String text)" NewName="A.cc20272a34548cc177ac242936cf7ef1f..ctor(String c0aa2be587c3c558807b09a604f944ba0)" />
+<Entry OldName="FreePDFMetadataEditor.ComboBoxExItem..ctor(String text, Int32 imageIndex)" NewName="A.cc20272a34548cc177ac242936cf7ef1f..ctor(String c0aa2be587c3c558807b09a604f944ba0, Int32 c62ed3ed88ef8e69c71c8b3283601a133)" />
+<Entry OldName="FreePDFMetadataEditor.ComboBoxExItem.get_Text()" NewName="A.cc20272a34548cc177ac242936cf7ef1f.get_c3e2a4192b892c02df5c6d3bcfbb20814()" />
+<Entry OldName="FreePDFMetadataEditor.ComboBoxExItem.set_Text(String value)" NewName="A.cc20272a34548cc177ac242936cf7ef1f.set_c3e2a4192b892c02df5c6d3bcfbb20814(String cf22d8e8cd5d75c055b65d8ab3eabd4c7)" />
+<Entry OldName="FreePDFMetadataEditor.ComboBoxExItem.get_ImageIndex()" NewName="A.cc20272a34548cc177ac242936cf7ef1f.get_c92189f8dae8cf2502d443460767ca125()" />
+<Entry OldName="FreePDFMetadataEditor.ComboBoxExItem.set_ImageIndex(Int32 value)" NewName="A.cc20272a34548cc177ac242936cf7ef1f.set_c92189f8dae8cf2502d443460767ca125(Int32 cf22d8e8cd5d75c055b65d8ab3eabd4c7)" />
+<Entry OldName="FreePDFMetadataEditor.ComboBoxExItem.ToString()" NewName="A.cc20272a34548cc177ac242936cf7ef1f.ToString()" />
+<Entry OldName="FreePDFMetadataEditor.MessageHelper.RegisterWindowMessage(String lpString)" NewName="FreePDFMetadataEditor.MessageHelper.cf21f09f418f2c3c6d157cd13167d2265(String c2088eaba823fc395638d2b66b4e21184)" />
+<Entry OldName="FreePDFMetadataEditor.Module..ctor()" NewName="A.c20c30b2cc40dd34dff062f547acf860a..ctor()" />
+<Entry OldName="FreePDFMetadataEditor.Module..cctor()" NewName="A.c20c30b2cc40dd34dff062f547acf860a..cctor()" />
+<Entry OldName="FreePDFMetadataEditor.Module.SHParseDisplayName(String pszName, IntPtr pbc, IntPtr&amp; ppidl, UInt32 sfgaoIn, UInt32&amp; psfgaoOut)" NewName="A.c20c30b2cc40dd34dff062f547acf860a.caafe7eca568f9f5c947d41e5d0c87a76(String c3b22f93fc0130e57c6edcf8a40f37885, IntPtr c40bdad6b47711a6f0681bd07ba5b3a93, IntPtr&amp; ca73707a43819371730776809f2b0f74c, UInt32 c8d29767a7ee1b9752814a95eaa208ac9, UInt32&amp; c446a3d54ce55edeabf64d0df363f0e83)" />
+<Entry OldName="FreePDFMetadataEditor.Module.SHOpenFolderAndSelectItems(IntPtr pidlFolder, UInt32 cidl, IntPtr[] apidl, UInt32 dwFlags)" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c6f9feadbb111a6b0a452e7a93e370b46(IntPtr c4a3548e22e48fa13a1f441e6880aee2a, UInt32 c8d598ad5ca2c026eabd2138075f22123, IntPtr[] c8d4e382dc3ba2d811c543bde0cd8e45e, UInt32 cf04bce78645a03a1f3081134c1178bae)" />
+<Entry OldName="FreePDFMetadataEditor.Module.SendMessage(IntPtr hWnd, Int32 wMsg, Int32 wParam, Int32 lParam)" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c88705ff531a52b67b67e566d2439b9ff(IntPtr cdfb99ef1641e1f06d1d92106eb0c5145, Int32 ca32831d3a0cefee1b6d6420ea6a9b86f, Int32 c5068c6f645db2aaf1603e19eeeb39b01, Int32 c1f5f740e7abb230c2cfcc638ad021ae0)" />
+<Entry OldName="FreePDFMetadataEditor.Module.LockWindowUpdate(IntPtr hWndLock)" NewName="A.c20c30b2cc40dd34dff062f547acf860a.ce63275391c6760c6300d1babf98e7fa7(IntPtr c001f769d69a48be180040c7bb8d085dc)" />
+<Entry OldName="FreePDFMetadataEditor.Module.GetRelativePath(String mainDirPath, String absoluteFilePath)" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c18dc5d3eb6b4bc9c89bfef5d2733c7ee(String cd30748ca96ce0f3c9f6965404c49161e, String cafbe2602ed68867a1e7d016f928613be)" />
+<Entry OldName="FreePDFMetadataEditor.Module.ShowMessage(String msg)" NewName="A.c20c30b2cc40dd34dff062f547acf860a.cae6b55da63481abcb00ebc993a384ca1(String cc1f5a53655fa43ead0ecf92cd780a9f5)" />
+<Entry OldName="FreePDFMetadataEditor.Module.ShowQuestionDialog(String msg, String caption)" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c589f94dc0d832572a739660dae776874(String cc1f5a53655fa43ead0ecf92cd780a9f5, String c8aa2b921a94daa415120dab4cded1d4a)" />
+<Entry OldName="FreePDFMetadataEditor.Module.ShowError(Exception ex)" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c96e7b7282b772858507c79bc0c3cf262(Exception c69af2f1bbd2fd137ad4b0a45c121c0c1)" />
+<Entry OldName="FreePDFMetadataEditor.Module.ShowError(String msg)" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c96e7b7282b772858507c79bc0c3cf262(String cc1f5a53655fa43ead0ecf92cd780a9f5)" />
+<Entry OldName="FreePDFMetadataEditor.Module.ShowError(String msg, Exception ex)" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c96e7b7282b772858507c79bc0c3cf262(String cc1f5a53655fa43ead0ecf92cd780a9f5, Exception c69af2f1bbd2fd137ad4b0a45c121c0c1)" />
+<Entry OldName="FreePDFMetadataEditor.Module.ShowError(String msg, String exstr)" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c96e7b7282b772858507c79bc0c3cf262(String cc1f5a53655fa43ead0ecf92cd780a9f5, String cdbeca04a0dc08d3e43bb756d7de9e04d)" />
+<Entry OldName="FreePDFMetadataEditor.Module.ShowQuestionDialogYesFocus(String msg, String caption)" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c1ee8dc5309922561f67932ebf39fae5a(String cc1f5a53655fa43ead0ecf92cd780a9f5, String c8aa2b921a94daa415120dab4cded1d4a)" />
+<Entry OldName="FreePDFMetadataEditor.Module.RegexEscape(String searchpattern)" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c794cf862156419cac7860a07d6eee52b(String c0c8030980a1c57bb36389f5eb534ba88)" />
+<Entry OldName="FreePDFMetadataEditor.Module.CurrentDomain_ProcessExit(Object sender, EventArgs e)" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c63bb5f5aecedd586fe3eec2337f9afba(Object cf3abe9a4a34ecff179b70d3d31b5eef4, EventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.Module.IsImage(String filepath)" NewName="A.c20c30b2cc40dd34dff062f547acf860a.cc7df062064449fc9191219d9f24f2911(String c304dc1807fb087129325e62e63088a47)" />
+<Entry OldName="FreePDFMetadataEditor.Module.get_Modex64()" NewName="A.c20c30b2cc40dd34dff062f547acf860a.get_cac8649b0c79404d8aef0b932b0dbc79e()" />
+<Entry OldName="FreePDFMetadataEditor.Module.DeleteApplicationSettingsFile()" NewName="A.c20c30b2cc40dd34dff062f547acf860a.c4ae8783b20397c4a0a40f8f1fbdade0d()" />
+<Entry OldName="FreePDFMetadataEditor.NiceLine.InitializeComponent()" NewName="FreePDFMetadataEditor.NiceLine.c096477e01c218252eef6bfb55d6a1f2e()" />
+<Entry OldName="FreePDFMetadataEditor.OutputFolderHelper..ctor()" NewName="A.c3e99af1081c7e9df4363348af3a51d45..ctor()" />
+<Entry OldName="FreePDFMetadataEditor.OutputFolderHelper.SaveOutputFolder(String folder)" NewName="A.c3e99af1081c7e9df4363348af3a51d45.cccafc3b295d366b3d8c4e87b1977f329(String cc3c489b47f69b0e720c516e542da23ac)" />
+<Entry OldName="FreePDFMetadataEditor.OutputFolderHelper.LoadOutputFolders()" NewName="A.c3e99af1081c7e9df4363348af3a51d45.c5dc55c76d85564be50937ecc35e17364()" />
+<Entry OldName="FreePDFMetadataEditor.Program.FreeConsole()" NewName="A.ccc0b38fc99d3b860fbf5fc721612ef0f.c89e13f3b1dbb99af88498ae1e5e6168a()" />
+<Entry OldName="FreePDFMetadataEditor.Program.AttachConsole(Int32 dwProcessId)" NewName="A.ccc0b38fc99d3b860fbf5fc721612ef0f.c0336d25082b52be32c0d31672c116334(Int32 c41b3cbe841e7e67aa67331257720a2e1)" />
+<Entry OldName="FreePDFMetadataEditor.Program.AllocConsole()" NewName="A.ccc0b38fc99d3b860fbf5fc721612ef0f.cc65cfdfe30055fad48e053fb06490eef()" />
+<Entry OldName="FreePDFMetadataEditor.Program.SetupLocalized()" NewName="A.ccc0b38fc99d3b860fbf5fc721612ef0f.cecb975b0349369719021fcab6b51a1d0()" />
+<Entry OldName="FreePDFMetadataEditor.Program.SetupNSILang()" NewName="A.ccc0b38fc99d3b860fbf5fc721612ef0f.cb3c29058811c410d01968b96560a85d3()" />
+<Entry OldName="FreePDFMetadataEditor.Program.Main(String[] args)" NewName="A.ccc0b38fc99d3b860fbf5fc721612ef0f.c50bbd050e89d36f5df7702ae1734709b(String[] cf92f31dcf1099dd77f84f57a9505d94b)" />
+<Entry OldName="FreePDFMetadataEditor.Program.InitRegistryLuminati()" NewName="A.ccc0b38fc99d3b860fbf5fc721612ef0f.c81414bc419c579c2c113a5c89454f0ea()" />
+<Entry OldName="FreePDFMetadataEditor.Program.SetLanguage()" NewName="A.ccc0b38fc99d3b860fbf5fc721612ef0f.c0ba5d37748d8f0ae9be603f7417f121b()" />
+<Entry OldName="FreePDFMetadataEditor.RegistryHelper2..ctor()" NewName="A.cc7745944c28c6b4e1b2a39ce69657022..ctor()" />
+<Entry OldName="FreePDFMetadataEditor.RegistryHelper2.GetKeyValue(String AppRegKey, String keystr)" NewName="A.cc7745944c28c6b4e1b2a39ce69657022.cf628c841cbd708d1b31aec0a7c81c9d0(String c67b71cea2918fec481bb70d7b0e146f3, String ca6de2cb3dafaa8c6480c4ace63e48f07)" />
+<Entry OldName="FreePDFMetadataEditor.RegistryHelper2.SetKeyValue2(String AppRegKey, String keystr, String keyvalue)" NewName="A.cc7745944c28c6b4e1b2a39ce69657022.ca44573c4f79de9d89c29970c02f5fc57(String c67b71cea2918fec481bb70d7b0e146f3, String ca6de2cb3dafaa8c6480c4ace63e48f07, String c0b6ccb4f364d20531b039092bb612012)" />
+<Entry OldName="FreePDFMetadataEditor.RegistryHelper2.SetKeyValue(String AppRegKey, String keystr, String keyvalue)" NewName="A.cc7745944c28c6b4e1b2a39ce69657022.cb76221b9013cfe03bbe5006341ce9fac(String c67b71cea2918fec481bb70d7b0e146f3, String ca6de2cb3dafaa8c6480c4ace63e48f07, String c0b6ccb4f364d20531b039092bb612012)" />
+<Entry OldName="FreePDFMetadataEditor.ucTextProgressBar.InitializeComponent()" NewName="FreePDFMetadataEditor.ucTextProgressBar.c096477e01c218252eef6bfb55d6a1f2e()" />
+<Entry OldName="FreePDFMetadataEditor.UpdateHelper.bwCheckVersion_ProgressChanged(Object sender, ProgressChangedEventArgs e)" NewName="FreePDFMetadataEditor.UpdateHelper.ca815a41d27aa39a4b7d791fdb1748837(Object cf3abe9a4a34ecff179b70d3d31b5eef4, ProgressChangedEventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.UpdateHelper.bwCheckVersion_RunWorkerCompleted(Object sender, RunWorkerCompletedEventArgs e)" NewName="FreePDFMetadataEditor.UpdateHelper.ce40e99b96676d068bb9a3a68178ff910(Object cf3abe9a4a34ecff179b70d3d31b5eef4, RunWorkerCompletedEventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.UpdateHelper.bwCheckVersion_DoWork(Object sender, DoWorkEventArgs e)" NewName="FreePDFMetadataEditor.UpdateHelper.cebb8941d282f9d2c9f42aff13014290a(Object cf3abe9a4a34ecff179b70d3d31b5eef4, DoWorkEventArgs c73c2c3bbf5c0ebef63f222c375c3ccef)" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags..ctor()" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c..ctor()" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags.get_ResourceManager()" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c.get_ResourceManager()" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags.get_Culture()" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c.get_Culture()" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags.set_Culture(CultureInfo value)" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c.set_Culture(CultureInfo value)" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags.get_flag_belarus()" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c.get_flag_belarus()" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags.get_flag_china()" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c.get_flag_china()" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags.get_flag_croatia()" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c.get_flag_croatia()" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags.get_flag_czech_republic()" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c.get_flag_czech_republic()" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags.get_flag_denmark()" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c.get_flag_denmark()" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags.get_flag_estonia()" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c.get_flag_estonia()" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags.get_flag_finland()" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c.get_flag_finland()" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags.get_flag_france()" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c.get_flag_france()" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags.get_flag_georgia()" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c.get_flag_georgia()" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags.get_flag_germany()" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c.get_flag_germany()" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags.get_flag_great_britain()" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c.get_flag_great_britain()" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags.get_flag_greece()" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c.get_flag_greece()" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags.get_flag_hungary()" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c.get_flag_hungary()" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags.get_flag_iceland()" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c.get_flag_iceland()" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags.get_flag_india()" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c.get_flag_india()" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags.get_flag_indonesia()" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c.get_flag_indonesia()" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags.get_flag_iran()" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c.get_flag_iran()" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags.get_flag_israel()" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c.get_flag_israel()" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags.get_flag_italy()" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c.get_flag_italy()" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags.get_flag_japan()" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c.get_flag_japan()" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags.get_flag_latvia()" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c.get_flag_latvia()" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags.get_flag_lithuania()" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c.get_flag_lithuania()" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags.get_flag_netherlands()" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c.get_flag_netherlands()" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags.get_flag_norway()" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c.get_flag_norway()" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags.get_flag_poland()" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c.get_flag_poland()" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags.get_flag_portugal()" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c.get_flag_portugal()" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags.get_flag_romania()" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c.get_flag_romania()" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags.get_flag_russia()" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c.get_flag_russia()" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags.get_flag_saudi_arabia()" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c.get_flag_saudi_arabia()" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags.get_flag_slovakia()" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c.get_flag_slovakia()" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags.get_flag_slovenia()" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c.get_flag_slovenia()" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags.get_flag_south_korea()" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c.get_flag_south_korea()" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags.get_flag_spain()" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c.get_flag_spain()" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags.get_flag_sweden()" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c.get_flag_sweden()" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags.get_flag_thailand()" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c.get_flag_thailand()" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags.get_flag_turkey()" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c.get_flag_turkey()" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags.get_flag_ukraine()" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c.get_flag_ukraine()" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags.get_flag_vietnam()" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c.get_flag_vietnam()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate..ctor()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292..ctor()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_ResourceManager()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_ResourceManager()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Culture()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Culture()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.set_Culture(CultureInfo value)" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.set_Culture(CultureInfo value)" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_A_new_version_has_been_released__Press_the_OK_button_to_download_the_new_version()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_A_new_version_has_been_released__Press_the_OK_button_to_download_the_new_version()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_A_new_version_has_been_released__Would_you_like_to_download_it_now__()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_A_new_version_has_been_released__Would_you_like_to_download_it_now__()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_An_error_occured__()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_An_error_occured__()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_An_error_occured_while_protecting_PDF_File()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_An_error_occured_while_protecting_PDF_File()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Change_PDF_Properties()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Change_PDF_Properties()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Creation_Date_and_Time()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Creation_Date_and_Time()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Current_Custom_Date()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Current_Custom_Date()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Current_Date()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Current_Date()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Current_Date_and_Time()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Current_Date_and_Time()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Current_Day__DD_()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Current_Day__DD_()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Current_Hour__HH_()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Current_Hour__HH_()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Current_Minute__MI_()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Current_Minute__MI_()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Current_Month__MM_()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Current_Month__MM_()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Current_Second__SS_()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Current_Second__SS_()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Current_Time()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Current_Time()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Current_Year__YYYY_()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Current_Year__YYYY_()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Directory_Name()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Directory_Name()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Directory_Path()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Directory_Path()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Download()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Download()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Download_new_version__()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Download_new_version__()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Encrypt_PDF()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Encrypt_PDF()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Error()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Error()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Error__Could_not_Create_Directory_for_File()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Error__Could_not_Create_Directory_for_File()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Error__Could_not_send_Questionnaire__()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Error__Could_not_send_Questionnaire__()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Error__Wrong_User_Password_for_File()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Error__Wrong_User_Password_for_File()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Error_Could_not_change_Language__()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Error_Could_not_change_Language__()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Error_could_not_parse_Arguments__()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Error_could_not_parse_Arguments__()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Filename()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Filename()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Filename_Without_Extension()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Filename_Without_Extension()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Full_File_Path()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Full_File_Path()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Is_From_Windows_Explorer()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Is_From_Windows_Explorer()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Last_Access_Date_and_Time()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Last_Access_Date_and_Time()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Last_Write_Date_and_Time()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Last_Write_Date_and_Time()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Operation_Cancelled__()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Operation_Cancelled__()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Operation_completed_successfully__()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Operation_completed_successfully__()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Operation_completed_with_Errors__()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Operation_completed_with_Errors__()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Overwrite_PDF_Document()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Overwrite_PDF_Document()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Please_add_a_PDF_File_first__()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Please_add_a_PDF_File_first__()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Please_add_only_PDF_Files__()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Please_add_only_PDF_Files__()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Please_add_PDF_Files_first__()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Please_add_PDF_Files_first__()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Please_enter_a_Subfolder_Name__()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Please_enter_a_Subfolder_Name__()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Please_enter_a_valid_Subfolder_Name__()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Please_enter_a_valid_Subfolder_Name__()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Please_enter_the_correct_User_Password__()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Please_enter_the_correct_User_Password__()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Please_fill_out_the_Questionnaire__()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Please_fill_out_the_Questionnaire__()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Please_insert_a_Custom_Metadata_Property_Name__()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Please_insert_a_Custom_Metadata_Property_Name__()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Please_insert_a_valid_Password__()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Please_insert_a_valid_Password__()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Please_specify_another_option_as_the_Output_Folder__()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Please_specify_another_option_as_the_Output_Folder__()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Same_Folder_of_PDF_Document()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Same_Folder_of_PDF_Document()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Subfolder()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Subfolder()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Subfolder_of_PDF_Document()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Subfolder_of_PDF_Document()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_This_is_the_latest_version__()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_This_is_the_latest_version__()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Unspecified_Error()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Unspecified_Error()" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate.get_Would_you_like_to_add_also_Subdirectories__()" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292.get_Would_you_like_to_add_also_Subdirectories__()" />
+<Entry OldName="FreePDFMetadataEditor.TranslateHelper..ctor()" NewName="A.c6a45c4fc72b776a21afef9e2ec256541..ctor()" />
+<Entry OldName="FreePDFMetadataEditor.TranslateHelper..cctor()" NewName="A.c6a45c4fc72b776a21afef9e2ec256541..cctor()" />
+<Entry OldName="FreePDFMetadataEditor.TranslateHelper.Translate(String str)" NewName="A.c6a45c4fc72b776a21afef9e2ec256541.c03a1f7fda53efdc79693513b3cd3b30b(String c7a06141030936b024921287c253a1890)" />
+<Entry OldName="FreePDFMetadataEditor.Properties.Resources..ctor()" NewName="A.ce852258c237f229450be9bfe33592430..ctor()" />
+<Entry OldName="FreePDFMetadataEditor.Properties.Resources.get_ResourceManager()" NewName="A.ce852258c237f229450be9bfe33592430.get_ResourceManager()" />
+<Entry OldName="FreePDFMetadataEditor.Properties.Resources.get_Culture()" NewName="A.ce852258c237f229450be9bfe33592430.get_Culture()" />
+<Entry OldName="FreePDFMetadataEditor.Properties.Resources.set_Culture(CultureInfo value)" NewName="A.ce852258c237f229450be9bfe33592430.set_Culture(CultureInfo value)" />
+<Entry OldName="FreePDFMetadataEditor.Properties.Resources.get__4dots_logo_official()" NewName="A.ce852258c237f229450be9bfe33592430.get__4dots_logo_official()" />
+<Entry OldName="FreePDFMetadataEditor.Properties.Resources.get__lock()" NewName="A.ce852258c237f229450be9bfe33592430.get__lock()" />
+<Entry OldName="FreePDFMetadataEditor.Properties.Resources.get_about()" NewName="A.ce852258c237f229450be9bfe33592430.get_about()" />
+<Entry OldName="FreePDFMetadataEditor.Properties.Resources.get_add()" NewName="A.ce852258c237f229450be9bfe33592430.get_add()" />
+<Entry OldName="FreePDFMetadataEditor.Properties.Resources.get_add1()" NewName="A.ce852258c237f229450be9bfe33592430.get_add1()" />
+<Entry OldName="FreePDFMetadataEditor.Properties.Resources.get_add2()" NewName="A.ce852258c237f229450be9bfe33592430.get_add2()" />
+<Entry OldName="FreePDFMetadataEditor.Properties.Resources.get_arrow_right_blue()" NewName="A.ce852258c237f229450be9bfe33592430.get_arrow_right_blue()" />
+<Entry OldName="FreePDFMetadataEditor.Properties.Resources.get_brush2()" NewName="A.ce852258c237f229450be9bfe33592430.get_brush2()" />
+<Entry OldName="FreePDFMetadataEditor.Properties.Resources.get_brush4()" NewName="A.ce852258c237f229450be9bfe33592430.get_brush4()" />
+<Entry OldName="FreePDFMetadataEditor.Properties.Resources.get_check()" NewName="A.ce852258c237f229450be9bfe33592430.get_check()" />
+<Entry OldName="FreePDFMetadataEditor.Properties.Resources.get_copy()" NewName="A.ce852258c237f229450be9bfe33592430.get_copy()" />
+<Entry OldName="FreePDFMetadataEditor.Properties.Resources.get_delete()" NewName="A.ce852258c237f229450be9bfe33592430.get_delete()" />
+<Entry OldName="FreePDFMetadataEditor.Properties.Resources.get_delete1()" NewName="A.ce852258c237f229450be9bfe33592430.get_delete1()" />
+<Entry OldName="FreePDFMetadataEditor.Properties.Resources.get_document_info()" NewName="A.ce852258c237f229450be9bfe33592430.get_document_info()" />
+<Entry OldName="FreePDFMetadataEditor.Properties.Resources.get_document_info1()" NewName="A.ce852258c237f229450be9bfe33592430.get_document_info1()" />
+<Entry OldName="FreePDFMetadataEditor.Properties.Resources.get_edit()" NewName="A.ce852258c237f229450be9bfe33592430.get_edit()" />
+<Entry OldName="FreePDFMetadataEditor.Properties.Resources.get_exit()" NewName="A.ce852258c237f229450be9bfe33592430.get_exit()" />
+<Entry OldName="FreePDFMetadataEditor.Properties.Resources.get_flash()" NewName="A.ce852258c237f229450be9bfe33592430.get_flash()" />
+<Entry OldName="FreePDFMetadataEditor.Properties.Resources.get_folder()" NewName="A.ce852258c237f229450be9bfe33592430.get_folder()" />
+<Entry OldName="FreePDFMetadataEditor.Properties.Resources.get_folder_add()" NewName="A.ce852258c237f229450be9bfe33592430.get_folder_add()" />
+<Entry OldName="FreePDFMetadataEditor.Properties.Resources.get_folder_add1()" NewName="A.ce852258c237f229450be9bfe33592430.get_folder_add1()" />
+<Entry OldName="FreePDFMetadataEditor.Properties.Resources.get_folder1()" NewName="A.ce852258c237f229450be9bfe33592430.get_folder1()" />
+<Entry OldName="FreePDFMetadataEditor.Properties.Resources.get_help2()" NewName="A.ce852258c237f229450be9bfe33592430.get_help2()" />
+<Entry OldName="FreePDFMetadataEditor.Properties.Resources.get_import1()" NewName="A.ce852258c237f229450be9bfe33592430.get_import1()" />
+<Entry OldName="FreePDFMetadataEditor.Properties.Resources.get_information()" NewName="A.ce852258c237f229450be9bfe33592430.get_information()" />
+<Entry OldName="FreePDFMetadataEditor.Properties.Resources.get_information1()" NewName="A.ce852258c237f229450be9bfe33592430.get_information1()" />
+<Entry OldName="FreePDFMetadataEditor.Properties.Resources.get_lock24()" NewName="A.ce852258c237f229450be9bfe33592430.get_lock24()" />
+<Entry OldName="FreePDFMetadataEditor.Properties.Resources.get_onlinepdfapps_com_main_screen_700_373()" NewName="A.ce852258c237f229450be9bfe33592430.get_onlinepdfapps_com_main_screen_700_373()" />
+<Entry OldName="FreePDFMetadataEditor.Properties.Resources.get_pdf_properties_changer()" NewName="A.ce852258c237f229450be9bfe33592430.get_pdf_properties_changer()" />
+<Entry OldName="FreePDFMetadataEditor.Properties.Resources.get_social_twitter_box_white_icon_24()" NewName="A.ce852258c237f229450be9bfe33592430.get_social_twitter_box_white_icon_24()" />
+<Entry OldName="FreePDFMetadataEditor.Properties.Resources.get_youtube_32()" NewName="A.ce852258c237f229450be9bfe33592430.get_youtube_32()" />
+<Entry OldName="FreePDFMetadataEditor.frmProgress.HideFormDelegate..ctor(Object object, IntPtr method)" NewName="FreePDFMetadataEditor.frmProgress.c535f2b7e4fa72a5b87a20ae27aa25456..ctor(Object object, IntPtr method)" />
+<Entry OldName="FreePDFMetadataEditor.frmProgress.HideFormDelegate.Invoke()" NewName="FreePDFMetadataEditor.frmProgress.c535f2b7e4fa72a5b87a20ae27aa25456.Invoke()" />
+<Entry OldName="FreePDFMetadataEditor.frmProgress.HideFormDelegate.BeginInvoke(AsyncCallback callback, Object object)" NewName="FreePDFMetadataEditor.frmProgress.c535f2b7e4fa72a5b87a20ae27aa25456.BeginInvoke(AsyncCallback callback, Object object)" />
+<Entry OldName="FreePDFMetadataEditor.frmProgress.HideFormDelegate.EndInvoke(IAsyncResult result)" NewName="FreePDFMetadataEditor.frmProgress.c535f2b7e4fa72a5b87a20ae27aa25456.EndInvoke(IAsyncResult result)" />
+<Entry OldName="FreePDFMetadataEditor.frmProgress.ShowFormDelegate..ctor(Object object, IntPtr method)" NewName="FreePDFMetadataEditor.frmProgress.cdd68f55a54e2eeb3787a1f1165128261..ctor(Object object, IntPtr method)" />
+<Entry OldName="FreePDFMetadataEditor.frmProgress.ShowFormDelegate.Invoke()" NewName="FreePDFMetadataEditor.frmProgress.cdd68f55a54e2eeb3787a1f1165128261.Invoke()" />
+<Entry OldName="FreePDFMetadataEditor.frmProgress.ShowFormDelegate.BeginInvoke(AsyncCallback callback, Object object)" NewName="FreePDFMetadataEditor.frmProgress.cdd68f55a54e2eeb3787a1f1165128261.BeginInvoke(AsyncCallback callback, Object object)" />
+<Entry OldName="FreePDFMetadataEditor.frmProgress.ShowFormDelegate.EndInvoke(IAsyncResult result)" NewName="FreePDFMetadataEditor.frmProgress.cdd68f55a54e2eeb3787a1f1165128261.EndInvoke(IAsyncResult result)" />
+<Entry OldName="FreePDFMetadataEditor.ArgsHelper" NewName="A.ce0bbbdf48950a4284043619a7893057d" />
+<Entry OldName="FreePDFMetadataEditor.DownloadSuggestionsHelper" NewName="A.cd3db260d5743b6fdbf1c9fc2826c24e2" />
+<Entry OldName="FreePDFMetadataEditor.ExcelImporter" NewName="A.ca37b3a2e79998b648d3d501f83fb48e4" />
+<Entry OldName="FreePDFMetadataEditor.MetadataHelper" NewName="A.cbb8cf473fa9dc408532176f3e790515a" />
+<Entry OldName="FreePDFMetadataEditor.ExceptionHandlersHelper" NewName="A.cc6fbe0f559d8604f721239650ba59c5e" />
+<Entry OldName="FreePDFMetadataEditor.frmProgress+HideFormDelegate" NewName="FreePDFMetadataEditor.frmProgress+c535f2b7e4fa72a5b87a20ae27aa25456" />
+<Entry OldName="FreePDFMetadataEditor.frmProgress+ShowFormDelegate" NewName="FreePDFMetadataEditor.frmProgress+cdd68f55a54e2eeb3787a1f1165128261" />
+<Entry OldName="FreePDFMetadataEditor.ImageComboBox" NewName="A.c9c2310813ed0c5fcb8bd13d593acb08b" />
+<Entry OldName="FreePDFMetadataEditor.ComboBoxExItem" NewName="A.cc20272a34548cc177ac242936cf7ef1f" />
+<Entry OldName="FreePDFMetadataEditor.Module" NewName="A.c20c30b2cc40dd34dff062f547acf860a" />
+<Entry OldName="FreePDFMetadataEditor.OutputFolderHelper" NewName="A.c3e99af1081c7e9df4363348af3a51d45" />
+<Entry OldName="FreePDFMetadataEditor.Program" NewName="A.ccc0b38fc99d3b860fbf5fc721612ef0f" />
+<Entry OldName="FreePDFMetadataEditor.RegistryHelper2" NewName="A.cc7745944c28c6b4e1b2a39ce69657022" />
+<Entry OldName="FreePDFMetadataEditor.ResFlags" NewName="A.c02be69b1de7be009f6f3a628f6d8f28c" />
+<Entry OldName="FreePDFMetadataEditor.ResTranslate" NewName="A.c95bb95c29e4913f27bdfeb64b14e0292" />
+<Entry OldName="FreePDFMetadataEditor.TranslateHelper" NewName="A.c6a45c4fc72b776a21afef9e2ec256541" />
+<Entry OldName="FreePDFMetadataEditor.Properties.Resources" NewName="A.ce852258c237f229450be9bfe33592430" />
+<Assembly Name="PDFMetadataEditor"><Type Token="33554433" Name="&lt;Module&gt;" />
+<Method Token="100663297" Name="" Variables="" ParamCnt="0" />
+<Type Token="33554434" Name="FreePDFMetadataEditor.ArgsHelper" />
+<Method Token="100663298" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663299" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663300" Name="ExamineArgs" Variables="args;V_0;V_1;V_2;tempfile;sr;scont;ex;" ParamCnt="1" />
+<Method Token="100663301" Name="GetParameter" Variables="arg;spos;V_1;V_2;str;V_4;V_5;" ParamCnt="1" />
+<Method Token="100663302" Name="SplitArguments" Variables="commandLine;parmChars;inSingleQuote;inDoubleQuote;index;V_4;V_5;V_6;V_7;V_8;" ParamCnt="1" />
+<Method Token="100663303" Name="ShowCommandUsage" Variables="msg;" ParamCnt="0" />
+<Method Token="100663304" Name="GetCommandUsage" Variables="msg;V_1;" ParamCnt="0" />
+<Field Token="67108865" Name="FromWindowsExplorer" />
+<Type Token="33554436" Name="FreePDFMetadataEditor.ReadListsResult" />
+<Method Token="100663306" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67108866" Name="Success" />
+<Field Token="67108867" Name="err" />
+<Type Token="33554437" Name="FreePDFMetadataEditor.CustomForm" />
+<Method Token="100663307" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663308" Name="OnPaintBackground" Variables="this;e;V_0;g;x;y;lgBrush;" ParamCnt="2" />
+<Method Token="100663309" Name="OnLoad" Variables="this;e;V_0;co;V_2;V_3;V_4;V_5;ex;" ParamCnt="2" />
+<Method Token="100663310" Name="CustomForm_Activated" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663311" Name="OnActivated" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663312" Name="ResizeControls" Variables="this;V_0;k;V_2;k;left;right;top;bottom;height;V_9;j;V_11;V_12;V_13;chk;V_15;chk;V_17;chk;V_19;V_20;" ParamCnt="1" />
+<Method Token="100663313" Name="ResizeChildControls" Variables="this;co;k;V_1;k;left;right;top;bottom;height;V_8;j;V_10;V_11;V_12;chk;V_14;chk;V_16;chk;V_18;V_19;" ParamCnt="2" />
+<Method Token="100663314" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663315" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108868" Name="LoadComplete" />
+<Field Token="67108869" Name="tooltip" />
+<Field Token="67108870" Name="components" />
+<Type Token="33554439" Name="FreePDFMetadataEditor.DownloadSuggestionsHelper" />
+<Method Token="100663322" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663323" Name="SetupDownloadMenuItems" Variables="this;tsiDownload;lastapp;m;tsic;k;V_4;tsi;V_6;V_7;" ParamCnt="2" />
+<Method Token="100663324" Name="tsi_Click" Variables="this;sender;e;tsi;" ParamCnt="3" />
+<Field Token="67108872" Name="tsiDownloadRoot" />
+<Field Token="67108873" Name="Category" />
+<Field Token="67108874" Name="App" />
+<Field Token="67108875" Name="Url" />
+<Type Token="33554440" Name="FreePDFMetadataEditor.ExcelImporter" />
+<Method Token="100663325" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663326" Name="ImportListExcel" Variables="this;filepath;stream;excelReader;curdir;result;V_4;V_5;V_6;m;k;V_9;file;exk;V_12;V_13;V_14;" ParamCnt="2" />
+<Method Token="100663327" Name="GetPart" Variables="part;V_0;epos;V_2;V_3;epos;V_5;V_6;" ParamCnt="1" />
+<Type Token="33554441" Name="FreePDFMetadataEditor.frmDownloadUpdate" />
+<Method Token="100663328" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663329" Name="get_DownloadFile" Variables="this;V_0;spos;file;tempdir;V_4;" ParamCnt="1" />
+<Method Token="100663330" Name="get_DownloadURL" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663331" Name="frmDownloadUpdate_Load" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663332" Name="client_DownloadFileCompleted" Variables="this;sender;e;V_0;V_1;ex;" ParamCnt="3" />
+<Method Token="100663333" Name="client_DownloadProgressChanged" Variables="this;sender;e;ukb;umb;V_2;" ParamCnt="3" />
+<Method Token="100663334" Name="GetEXEDownloadURL" Variables="this;durl;V_1;spos;program;V_4;V_5;" ParamCnt="1" />
+<Method Token="100663335" Name="btnCancelDownload_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663336" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663337" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108876" Name="_DownloadFile" />
+<Field Token="67108877" Name="client" />
+<Field Token="67108878" Name="Cancelled" />
+<Field Token="67108879" Name="components" />
+<Field Token="67108880" Name="pgBar" />
+<Field Token="67108881" Name="btnCancelDownload" />
+<Field Token="67108882" Name="bwDownload" />
+<Field Token="67108883" Name="label1" />
+<Field Token="67108884" Name="lblTotalSize" />
+<Type Token="33554442" Name="FreePDFMetadataEditor.frmMultipleFiles" />
+<Method Token="100663338" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663339" Name=".ctor" Variables="this;batchjoin;txt;" ParamCnt="3" />
+<Method Token="100663340" Name="btnCancel_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663341" Name="btnOK_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663342" Name="frmMultipleFiles_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663343" Name="frmMultipleFiles_Activated" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663344" Name="btnBrowse_Click" Variables="this;sender;e;V_0;k;V_2;" ParamCnt="3" />
+<Method Token="100663345" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663346" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108885" Name="Output" />
+<Field Token="67108886" Name="BatchJoin" />
+<Field Token="67108887" Name="components" />
+<Field Token="67108888" Name="lblBatchJoin" />
+<Field Token="67108889" Name="btnCancel" />
+<Field Token="67108890" Name="btnOK" />
+<Field Token="67108891" Name="txtFiles" />
+<Field Token="67108892" Name="label2" />
+<Field Token="67108893" Name="btnBrowse" />
+<Field Token="67108894" Name="openFileDialog1" />
+<Type Token="33554443" Name="FreePDFMetadataEditor.frmPromotion" />
+<Method Token="100663347" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663348" Name="picPromotion_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663349" Name="VisitWebpage" Variables="this;" ParamCnt="1" />
+<Method Token="100663350" Name="lnkPromotion_LinkClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663351" Name="btnOK_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663352" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663353" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108895" Name="components" />
+<Field Token="67108896" Name="label1" />
+<Field Token="67108897" Name="lnkPromotion" />
+<Field Token="67108898" Name="picPromotion" />
+<Field Token="67108899" Name="chkVisitWebpage" />
+<Field Token="67108900" Name="chkDoNotShowAgain" />
+<Field Token="67108901" Name="btnOK" />
+<Type Token="33554444" Name="FreePDFMetadataEditor.frmSettings" />
+<Method Token="100663354" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663355" Name="btnOK_Click" Variables="this;sender;e;V_0;V_1;proc;regval;V_4;V_5;V_6;" ParamCnt="3" />
+<Method Token="100663356" Name="frmSettings_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663357" Name="btnCancel_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663358" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663359" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108902" Name="InitialChoice" />
+<Field Token="67108903" Name="components" />
+<Field Token="67108904" Name="btnOK" />
+<Field Token="67108905" Name="btnCancel" />
+<Field Token="67108906" Name="chkAllowSharing" />
+<Type Token="33554445" Name="FreePDFMetadataEditor.frmSpecialItem" />
+<Method Token="100663360" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663361" Name="frmSpecialItem_Load" Variables="this;sender;e;dr;" ParamCnt="3" />
+<Method Token="100663362" Name="btnOK_Click" Variables="this;sender;e;V_0;drv;V_2;V_3;V_4;" ParamCnt="3" />
+<Method Token="100663363" Name="dgSpecialItem_CellDoubleClick" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663364" Name="chkSpecialItem_CheckedChanged" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663365" Name="chkFind_CheckedChanged" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663366" Name="btnInsert_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663367" Name="chkRegExp_CheckedChanged" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663368" Name="chkWildcards_CheckedChanged" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663369" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663370" Name="InitializeComponent" Variables="this;resources;dataGridViewCellStyle3;dataGridViewCellStyle1;dataGridViewCellStyle2;" ParamCnt="1" />
+<Field Token="67108907" Name="SelectedItem" />
+<Field Token="67108908" Name="dtspecialitem" />
+<Field Token="67108909" Name="components" />
+<Field Token="67108910" Name="dgSpecialItem" />
+<Field Token="67108911" Name="btnCancel" />
+<Field Token="67108912" Name="btnOK" />
+<Field Token="67108913" Name="dataGridViewTextBoxColumn1" />
+<Field Token="67108914" Name="colSpecialValue" />
+<Field Token="67108915" Name="txtReplace" />
+<Field Token="67108916" Name="grpFind" />
+<Field Token="67108917" Name="label3" />
+<Field Token="67108918" Name="btnInsert" />
+<Field Token="67108919" Name="label2" />
+<Field Token="67108920" Name="txtReplaceMatchGroup" />
+<Field Token="67108921" Name="chkFind" />
+<Field Token="67108922" Name="txtFind" />
+<Field Token="67108923" Name="label1" />
+<Field Token="67108924" Name="chkSpecialItem" />
+<Field Token="67108925" Name="chkWildcards" />
+<Field Token="67108926" Name="chkRegExp" />
+<Type Token="33554446" Name="FreePDFMetadataEditor.ImportListHelper" />
+<Method Token="100663371" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663372" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663373" Name="ImportList" Variables="listfilepath;curdir;sr;line;filepath;password;V_5;compos;V_7;epos;V_9;V_10;epos;V_12;V_13;V_14;V_15;V_16;exq;V_18;V_19;V_20;V_21;ex;" ParamCnt="1" />
+<Field Token="67108927" Name="SilentAdd" />
+<Field Token="67108928" Name="SilentAddErr" />
+<Type Token="33554447" Name="FreePDFMetadataEditor.MetadataHelper" />
+<Method Token="100663374" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663375" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663376" Name="SetMetadataMultiplePDF" Variables="dt;clearMetadata;err;k;outfilepath;filepath;password;rootfolder;V_6;V_7;V_8;dirpath;V_10;subfolderspos;subfolder;V_13;V_14;dep;outdfp;V_17;ex;V_19;" ParamCnt="2" />
+<Method Token="100663377" Name="SetMetadataSinglePDF" Variables="InputFile;OutputFile;Password;clearMetadata;err;reader;V_2;exd;V_4;fi;dtcreated;dtlastmod;dict;curdate;TmpFile;fi2;input;V_13;ex;V_15;V_16;V_17;f2;dres;V_20;V_21;V_22;V_23;V_24;V_25;V_26;V_27;V_28;V_29;m;V_31;customvalue;V_33;V_34;memoryStream;stamper;V_37;V_38;kv;V_40;msb;xmpw;V_43;V_44;V_45;fi3;V_47;bakfilepath;V_49;V_50;V_51;V_52;exm;V_54;ex;" ParamCnt="4" />
+<Method Token="100663378" Name="GetSpecialValue" Variables="field;info;InputFile;pattern;curval;curdate;filename;filnoext;directoryname;fullfilepath;directorypath;fi;custval;fspos;V_10;V_11;V_12;V_13;fispos;fepos;findtxt;rspos;repos;V_19;replacetxt;sp;replaceStr;V_23;V_24;V_25;fispos;fepos;findtxt;rspos;repos;V_31;replacetxt;sp;replaceStr;V_35;V_36;V_37;fispos;fepos;findtxt;rspos;repos;V_43;replacetxt;replaceStr;V_46;V_47;spos;V_49;spos2;epos;custdate;custend;V_54;V_55;V_56;" ParamCnt="4" />
+<Method Token="100663379" Name="FindReplaceValue" Variables="currentValue;findPattern;replaceTxt;regex;macol;replaceValue;changedchars;k;reptxt;fspos;ilen;V_8;fepos;mg;V_11;V_12;V_13;V_14;" ParamCnt="3" />
+<Field Token="67108929" Name="Title" />
+<Field Token="67108930" Name="Author" />
+<Field Token="67108931" Name="Subject" />
+<Field Token="67108932" Name="Keywords" />
+<Field Token="67108933" Name="CreationDate" />
+<Field Token="67108934" Name="ModificationDate" />
+<Field Token="67108935" Name="Creator" />
+<Field Token="67108936" Name="SetDocInfo" />
+<Field Token="67108937" Name="CANCELLED" />
+<Field Token="67108938" Name="DefaultPassword" />
+<Type Token="33554448" Name="FreePDFMetadataEditor.ExceptionHandlersHelper" />
+<Method Token="100663380" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663381" Name="AddUnhandledExceptionHandlers" Variables="" ParamCnt="0" />
+<Method Token="100663382" Name="myExceptionHandler" Variables="sender;e;ex;" ParamCnt="2" />
+<Method Token="100663383" Name="myThreadExceptionHandler" Variables="sender;e;" ParamCnt="2" />
+<Type Token="33554449" Name="FreePDFMetadataEditor.frmAbout" />
+<Method Token="100663384" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663385" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663386" Name="frmAbout_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663387" Name="OnPaintBackground" Variables="this;e;g;x;y;lgBrush;" ParamCnt="2" />
+<Method Token="100663388" Name="btnClose_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663389" Name="lblAdeia_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663390" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663391" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108939" Name="lblf" />
+<Field Token="67108940" Name="LDT" />
+<Field Token="67108941" Name="components" />
+<Field Token="67108942" Name="lblAbout" />
+<Field Token="67108943" Name="btnClose" />
+<Field Token="67108944" Name="pictureBox1" />
+<Type Token="33554450" Name="FreePDFMetadataEditor.frmDocumentInfo" />
+<Method Token="100663392" Name=".ctor" Variables="this;filepath;password;" ParamCnt="3" />
+<Method Token="100663393" Name="btnExit_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663394" Name="btnOK_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663395" Name="GetDocumentMetadata" Variables="this;InputFile;Password;reader;err;dt;input;V_4;ex;V_6;V_7;V_8;f2;dres;V_11;V_12;V_13;V_14;V_15;V_16;V_17;V_18;V_19;V_20;V_21;V_22;d;V_24;dr;exm;V_27;" ParamCnt="3" />
+<Method Token="100663396" Name="frmDocumentInfo_Load" Variables="this;sender;e;err;V_1;f;" ParamCnt="3" />
+<Method Token="100663397" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663398" Name="InitializeComponent" Variables="this;resources;dataGridViewCellStyle3;dataGridViewCellStyle1;dataGridViewCellStyle2;" ParamCnt="1" />
+<Field Token="67108945" Name="InputFile" />
+<Field Token="67108946" Name="Password" />
+<Field Token="67108947" Name="components" />
+<Field Token="67108948" Name="txtKeywords" />
+<Field Token="67108949" Name="txtSubject" />
+<Field Token="67108950" Name="txtAuthor" />
+<Field Token="67108951" Name="txtTitle" />
+<Field Token="67108952" Name="btnExit" />
+<Field Token="67108953" Name="btnOK" />
+<Field Token="67108954" Name="txtCreator" />
+<Field Token="67108955" Name="label1" />
+<Field Token="67108956" Name="label2" />
+<Field Token="67108957" Name="label3" />
+<Field Token="67108958" Name="label4" />
+<Field Token="67108959" Name="label5" />
+<Field Token="67108960" Name="label6" />
+<Field Token="67108961" Name="txtCreationDate" />
+<Field Token="67108962" Name="label7" />
+<Field Token="67108963" Name="txtModificationDate" />
+<Field Token="67108964" Name="grpCustomMetadata" />
+<Field Token="67108965" Name="dgCustomMetadata" />
+<Field Token="67108966" Name="dataGridViewTextBoxColumn1" />
+<Field Token="67108967" Name="dataGridViewTextBoxColumn2" />
+<Type Token="33554452" Name="FreePDFMetadataEditor.frmLanguage" />
+<Method Token="100663406" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663407" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663408" Name="btnOK_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663409" Name="DownloadLanguage" Variables="langcode;dllfile;downurl;lang_has_been_downloaded;V_3;V_4;V_5;V_6;pr;V_8;V_9;V_10;" ParamCnt="1" />
+<Method Token="100663410" Name="SetLanguages" Variables="" ParamCnt="0" />
+<Method Token="100663411" Name="frmLanguage_Load" Variables="this;sender;e;k;V_1;" ParamCnt="3" />
+<Method Token="100663412" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663413" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108974" Name="LangCodes" />
+<Field Token="67108975" Name="LangDesc" />
+<Field Token="67108976" Name="LangImg" />
+<Field Token="67108977" Name="SelectedLanguageCode" />
+<Field Token="67108978" Name="components" />
+<Field Token="67108979" Name="label1" />
+<Field Token="67108980" Name="cmbLanguage" />
+<Field Token="67108981" Name="btnOK" />
+<Type Token="33554453" Name="FreePDFMetadataEditor.frmMain" />
+<Method Token="100663414" Name=".ctor" Variables="this;V_0;V_1;fp;" ParamCnt="1" />
+<Method Token="100663415" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663416" Name="button1_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663417" Name="AddVisual" Variables="this;argsvisual;k;V_1;V_2;V_3;" ParamCnt="2" />
+<Method Token="100663418" Name="SetupOutputFolders" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663419" Name="SetupOnLoad" Variables="this;ds;" ParamCnt="1" />
+<Method Token="100663420" Name="AdjustSizeLocation" Variables="this;V_0;V_1;V_2;V_3;V_4;" ParamCnt="1" />
+<Method Token="100663421" Name="SaveSizeLocation" Variables="this;" ParamCnt="1" />
+<Method Token="100663422" Name="frmMain_Load" Variables="this;sender;e;cz;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;k;dr;V_14;" ParamCnt="3" />
+<Method Token="100663423" Name="AddLanguageMenuItems" Variables="this;k;ti;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663424" Name="tiLang_Click" Variables="this;sender;e;ti;langcode;k;til;V_4;V_5;" ParamCnt="3" />
+<Method Token="100663425" Name="ChangeLanguage" Variables="this;language_code;maximized;key;key2;V_3;V_4;ex;V_6;" ParamCnt="2" />
+<Method Token="100663426" Name="aboutToolStripMenuItem_Click" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663427" Name="exitToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663428" Name="btnAddFiles_Click" Variables="this;sender;e;V_0;k;V_2;" ParamCnt="3" />
+<Method Token="100663429" Name="AddFile" Variables="this;filepath;V_0;" ParamCnt="2" />
+<Method Token="100663430" Name="AddFile" Variables="this;filepath;password;V_0;" ParamCnt="3" />
+<Method Token="100663431" Name="AddFile" Variables="this;filepath;password;rootfolder;dr;fi;sizekb;V_3;V_4;V_5;V_6;" ParamCnt="4" />
+<Method Token="100663432" Name="btnAddFolder_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663433" Name="AddFolder" Variables="this;folder_path;" ParamCnt="2" />
+<Method Token="100663434" Name="AddFolder" Variables="this;folder_path;password;filez;V_1;V_2;V_3;dres;V_5;k;V_7;V_8;" ParamCnt="3" />
+<Method Token="100663435" Name="btnRemoveFile_Click" Variables="this;sender;e;cells;rows;k;V_3;V_4;k;V_6;" ParamCnt="3" />
+<Method Token="100663436" Name="tiHelpFeedback_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663437" Name="openToolStripMenuItem_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663438" Name="buyNowToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663439" Name="WndProc" Variables="this;m;V_0;mystr;mytype;arg;args;n;V_6;V_7;" ParamCnt="2" />
+<Method Token="100663440" Name="helpGuideToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663441" Name="btnClearMerge_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663442" Name="btnSetMetadata_Click" Variables="this;sender;e;err;V_1;m;V_3;V_4;V_5;V_6;V_7;V_8;V_9;f;ex;" ParamCnt="3" />
+<Method Token="100663443" Name="frmMain_Resize" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663444" Name="dgFiles_DragDrop" Variables="this;sender;e;V_0;filez;k;isimage;V_4;" ParamCnt="3" />
+<Method Token="100663445" Name="dgFiles_DragEnter" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663446" Name="dgFiles_DragOver" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663447" Name="visit4dotsSoftwareWebsiteToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663448" Name="btnOpenFolder_Click" Variables="this;sender;e;V_0;dirpath;filepath;outfilepath;args;info;V_6;V_7;V_8;subfolderspos;subfolder;V_11;" ParamCnt="3" />
+<Method Token="100663449" Name="btnChangeFolder_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663450" Name="backgroundWorker1_DoWork" Variables="this;sender;e;fp;V_1;V_2;" ParamCnt="3" />
+<Method Token="100663451" Name="frmMain_FormClosing" Variables="this;sender;e;cz;k;V_2;" ParamCnt="3" />
+<Method Token="100663452" Name="cmbOutputDir_SelectedIndexChanged" Variables="this;sender;e;V_0;V_1;fob;V_3;V_4;" ParamCnt="3" />
+<Method Token="100663453" Name="btnCustomAdd_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663454" Name="btnCustomDelete_Click" Variables="this;sender;e;V_0;drv;V_2;V_3;" ParamCnt="3" />
+<Method Token="100663455" Name="exploreToolStripMenuItem_Click" Variables="this;sender;e;filepath;args;info;V_3;" ParamCnt="3" />
+<Method Token="100663456" Name="contextMenuStrip1_Opening" Variables="this;sender;e;p;hit;V_2;V_3;V_4;" ParamCnt="3" />
+<Method Token="100663457" Name="chkTitle_CheckedChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663458" Name="chkAuthor_CheckedChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663459" Name="chkSubject_CheckedChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663460" Name="chkKeywords_CheckedChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663461" Name="chkCreator_CheckedChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663462" Name="chkCreationDate_CheckedChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663463" Name="chkModificationDate_CheckedChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663464" Name="followUsOnTwitterToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663465" Name="btnInsertSpecial_Click" Variables="this;sender;e;f;V_1;V_2;" ParamCnt="3" />
+<Method Token="100663466" Name="documentsMetadataToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663467" Name="tsbDocumetMetadata_Click" Variables="this;sender;e;f;V_1;" ParamCnt="3" />
+<Method Token="100663468" Name="btnSpecialTitle_Click_1" Variables="this;sender;e;f;V_1;V_2;V_3;V_4;V_5;V_6;" ParamCnt="3" />
+<Method Token="100663469" Name="keepFolderStructureToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663470" Name="tsdbImportList_ButtonClick" Variables="this;sender;e;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663471" Name="luminatiSettingsToolStripMenuItem_Click" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663472" Name="selectAllToolStripMenuItem_Click" Variables="this;sender;e;k;V_1;" ParamCnt="3" />
+<Method Token="100663473" Name="selectNoneToolStripMenuItem_Click" Variables="this;sender;e;k;V_1;" ParamCnt="3" />
+<Method Token="100663474" Name="invertSelectionToolStripMenuItem_Click" Variables="this;sender;e;k;V_1;" ParamCnt="3" />
+<Method Token="100663475" Name="importListFromExcelFileToolStripMenuItem_Click" Variables="this;sender;e;openFileDialog1;V_1;xl;" ParamCnt="3" />
+<Method Token="100663476" Name="enterFileListToolStripMenuItem_Click" Variables="this;sender;e;txt;f;k;V_3;V_4;k;V_6;" ParamCnt="3" />
+<Method Token="100663477" Name="saveCurrentFileListToolStripMenuItem_Click" Variables="this;sender;e;V_0;V_1;sw;k;V_4;" ParamCnt="3" />
+<Method Token="100663478" Name="donateViaPaypalToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663479" Name="youtubeChannelToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663480" Name="tryOnlineVersionAtOnlinepdfappscomToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663481" Name="commandLineArgumentsToolStripMenuItem_Click" Variables="this;sender;e;fm;" ParamCnt="3" />
+<Method Token="100663482" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663483" Name="InitializeComponent" Variables="this;resources;dataGridViewCellStyle3;dataGridViewCellStyle1;dataGridViewCellStyle2;dataGridViewCellStyle5;dataGridViewCellStyle4;" ParamCnt="1" />
+<Field Token="67108982" Name="Instance" />
+<Field Token="67108983" Name="dt" />
+<Field Token="67108984" Name="dtcustom" />
+<Field Token="67108985" Name="IsDragging" />
+<Field Token="67108986" Name="components" />
+<Field Token="67108987" Name="menuStrip1" />
+<Field Token="67108988" Name="fileToolStripMenuItem" />
+<Field Token="67108989" Name="exitToolStripMenuItem" />
+<Field Token="67108990" Name="helpToolStripMenuItem" />
+<Field Token="67108991" Name="helpGuideToolStripMenuItem" />
+<Field Token="67108992" Name="aboutToolStripMenuItem" />
+<Field Token="67108993" Name="openFileDialog1" />
+<Field Token="67108994" Name="saveFileDialog1" />
+<Field Token="67108995" Name="folderBrowserDialog1" />
+<Field Token="67108996" Name="tiHelpFeedback" />
+<Field Token="67108997" Name="contextMenuStrip1" />
+<Field Token="67108998" Name="exploreToolStripMenuItem" />
+<Field Token="67108999" Name="toolStripMenuItem1" />
+<Field Token="67109000" Name="dgFiles" />
+<Field Token="67109001" Name="downloadToolStripMenuItem" />
+<Field Token="67109002" Name="visit4dotsSoftwareWebsiteToolStripMenuItem" />
+<Field Token="67109003" Name="languageToolStripMenuItem" />
+<Field Token="67109004" Name="btnOpenFolder" />
+<Field Token="67109005" Name="btnChangeFolder" />
+<Field Token="67109006" Name="folderBrowserDialog2" />
+<Field Token="67109007" Name="groupBox1" />
+<Field Token="67109008" Name="backgroundWorker1" />
+<Field Token="67109009" Name="toolStrip1" />
+<Field Token="67109010" Name="tsbAddFile" />
+<Field Token="67109011" Name="tsbAddFolder" />
+<Field Token="67109012" Name="tsbRemove" />
+<Field Token="67109013" Name="toolStripSeparator1" />
+<Field Token="67109014" Name="tsbSetMetadata" />
+<Field Token="67109015" Name="toolTip1" />
+<Field Token="67109016" Name="cmbOutputDir" />
+<Field Token="67109017" Name="chkModificationDate" />
+<Field Token="67109018" Name="chkCreationDate" />
+<Field Token="67109019" Name="chkCreator" />
+<Field Token="67109020" Name="chkKeywords" />
+<Field Token="67109021" Name="chkSubject" />
+<Field Token="67109022" Name="chkAuthor" />
+<Field Token="67109023" Name="chkTitle" />
+<Field Token="67109024" Name="dpModificationDate" />
+<Field Token="67109025" Name="dpCreationDate" />
+<Field Token="67109026" Name="txtCreator" />
+<Field Token="67109027" Name="txtKeywords" />
+<Field Token="67109028" Name="txtSubject" />
+<Field Token="67109029" Name="txtAuthor" />
+<Field Token="67109030" Name="txtTitle" />
+<Field Token="67109031" Name="grpCustomMetadata" />
+<Field Token="67109032" Name="dgCustomMetadata" />
+<Field Token="67109033" Name="btnCustomDelete" />
+<Field Token="67109034" Name="btnCustomAdd" />
+<Field Token="67109035" Name="openToolStripMenuItem" />
+<Field Token="67109036" Name="colFilename" />
+<Field Token="67109037" Name="colUserPassword" />
+<Field Token="67109038" Name="colSize" />
+<Field Token="67109039" Name="colFileDate" />
+<Field Token="67109040" Name="colFullFilePath" />
+<Field Token="67109041" Name="label1" />
+<Field Token="67109042" Name="removeToolStripMenuItem" />
+<Field Token="67109043" Name="followUsOnTwitterToolStripMenuItem" />
+<Field Token="67109044" Name="btnInsertSpecial" />
+<Field Token="67109045" Name="dataGridViewTextBoxColumn1" />
+<Field Token="67109046" Name="dataGridViewTextBoxColumn2" />
+<Field Token="67109047" Name="chkKeepBackup" />
+<Field Token="67109048" Name="documentsMedataToolStripMenuItem" />
+<Field Token="67109049" Name="toolStripSeparator2" />
+<Field Token="67109050" Name="tsbDocumetMetadata" />
+<Field Token="67109051" Name="btnSpecialTitle" />
+<Field Token="67109052" Name="btnSpecialCreator" />
+<Field Token="67109053" Name="btnSpecialKeywords" />
+<Field Token="67109054" Name="btnSpecialSubject" />
+<Field Token="67109055" Name="btnSpecialAuthor" />
+<Field Token="67109056" Name="optionsToolStripMenuItem" />
+<Field Token="67109057" Name="keepFolderStructureToolStripMenuItem" />
+<Field Token="67109058" Name="tsbImportList" />
+<Field Token="67109059" Name="chkClearMetadata" />
+<Field Token="67109060" Name="luminatiSettingsToolStripMenuItem" />
+<Field Token="67109061" Name="editToolStripMenuItem" />
+<Field Token="67109062" Name="removeToolStripMenuItem1" />
+<Field Token="67109063" Name="clearToolStripMenuItem" />
+<Field Token="67109064" Name="toolStripMenuItem2" />
+<Field Token="67109065" Name="selectAllToolStripMenuItem" />
+<Field Token="67109066" Name="selectNoneToolStripMenuItem" />
+<Field Token="67109067" Name="invertSelectionToolStripMenuItem" />
+<Field Token="67109068" Name="addFilesToolStripMenuItem" />
+<Field Token="67109069" Name="addFolderToolStripMenuItem" />
+<Field Token="67109070" Name="toolStripMenuItem3" />
+<Field Token="67109071" Name="importListFormTextFileToolStripMenuItem" />
+<Field Token="67109072" Name="importListFromExcelFileToolStripMenuItem" />
+<Field Token="67109073" Name="enterFileListToolStripMenuItem" />
+<Field Token="67109074" Name="saveCurrentFileListToolStripMenuItem" />
+<Field Token="67109075" Name="toolStripMenuItem4" />
+<Field Token="67109076" Name="donateViaPaypalToolStripMenuItem" />
+<Field Token="67109077" Name="youtubeChannelToolStripMenuItem" />
+<Field Token="67109078" Name="checkForNewVersionEachWeekToolStripMenuItem" />
+<Field Token="67109079" Name="exploreOutputFolderWhenDoneToolStripMenuItem" />
+<Field Token="67109080" Name="keepCreationDateToolStripMenuItem" />
+<Field Token="67109081" Name="keepLastModificationDateToolStripMenuItem" />
+<Field Token="67109082" Name="showMessageOnSucessToolStripMenuItem" />
+<Field Token="67109083" Name="toolsToolStripMenuItem" />
+<Field Token="67109084" Name="editMetadataToolStripMenuItem" />
+<Field Token="67109085" Name="tryOnlineVersionAtOnlinepdfappscomToolStripMenuItem" />
+<Field Token="67109086" Name="commandLineArgumentsToolStripMenuItem" />
+<Type Token="33554454" Name="FreePDFMetadataEditor.frmMessage" />
+<Method Token="100663484" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663485" Name=".ctor" Variables="this;forCmdArgs;" ParamCnt="2" />
+<Method Token="100663486" Name="btnOK_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663487" Name="frmMessage_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663488" Name="btnCopy_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663489" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663490" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109087" Name="ForCommandLineArgs" />
+<Field Token="67109088" Name="components" />
+<Field Token="67109089" Name="lblMsg" />
+<Field Token="67109090" Name="txtMsg" />
+<Field Token="67109091" Name="btnOK" />
+<Field Token="67109092" Name="chkShow" />
+<Field Token="67109093" Name="btnCopy" />
+<Type Token="33554455" Name="FreePDFMetadataEditor.frmOutputSubFolder" />
+<Method Token="100663491" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663492" Name="btnCancel_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663493" Name="btnOK_Click" Variables="this;sender;e;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663494" Name="IsLegalFilename" Variables="name;fileInfo;V_1;" ParamCnt="1" />
+<Method Token="100663495" Name="frmOutputSubFolder_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663496" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663497" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109094" Name="components" />
+<Field Token="67109095" Name="btnOK" />
+<Field Token="67109096" Name="btnCancel" />
+<Field Token="67109097" Name="label1" />
+<Field Token="67109098" Name="txtSubfolder" />
+<Type Token="33554456" Name="FreePDFMetadataEditor.frmPassword" />
+<Method Token="100663498" Name=".ctor" Variables="this;inputfile;lbl;" ParamCnt="2" />
+<Method Token="100663499" Name="btnCancel_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663500" Name="btnOK_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663501" Name="frmPassword_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663502" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663503" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109099" Name="InputFile" />
+<Field Token="67109100" Name="components" />
+<Field Token="67109101" Name="btnOK" />
+<Field Token="67109102" Name="label1" />
+<Field Token="67109103" Name="btnCancel" />
+<Field Token="67109104" Name="txtPassword" />
+<Field Token="67109105" Name="chkPassword" />
+<Type Token="33554457" Name="FreePDFMetadataEditor.frmProgress" />
+<Method Token="100663504" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663505" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663506" Name="HideForm" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663507" Name="ShowForm" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663508" Name="btnCancel_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663509" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663510" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109106" Name="Instance" />
+<Field Token="67109107" Name="components" />
+<Field Token="67109108" Name="progressBar1" />
+<Field Token="67109109" Name="label1" />
+<Field Token="67109110" Name="btnCancel" />
+<Type Token="33554458" Name="FreePDFMetadataEditor.frmUninstallQuestionnaire" />
+<Method Token="100663511" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663512" Name=".ctor" Variables="this;_onuninstall;" ParamCnt="2" />
+<Method Token="100663513" Name="btnExit_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663514" Name="btnOK_Click" Variables="this;sender;e;buy;like;version;email;opinion;postCgi;data;dataLine;V_8;request;bytes;outputStream;response;responseStream;reader;exp;V_16;" ParamCnt="3" />
+<Method Token="100663515" Name="frmUninstallQuestionnaire_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663516" Name="txtOpinion_TextChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663517" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663518" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109111" Name="OnUninstall" />
+<Field Token="67109112" Name="components" />
+<Field Token="67109113" Name="label1" />
+<Field Token="67109114" Name="label2" />
+<Field Token="67109115" Name="label3" />
+<Field Token="67109116" Name="btnOK" />
+<Field Token="67109117" Name="btnExit" />
+<Field Token="67109118" Name="txtLike" />
+<Field Token="67109119" Name="txtBuy" />
+<Field Token="67109120" Name="label4" />
+<Field Token="67109121" Name="txtEmail" />
+<Field Token="67109122" Name="txtOpinion" />
+<Field Token="67109123" Name="label5" />
+<Type Token="33554459" Name="FreePDFMetadataEditor.ImageComboBox" />
+<Method Token="100663519" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663520" Name="get_ImageList" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663521" Name="set_ImageList" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663522" Name="OnDrawItem" Variables="this;ea;item;imageSize;bounds;V_3;V_4;" ParamCnt="2" />
+<Field Token="67109124" Name="imageList" />
+<Type Token="33554460" Name="FreePDFMetadataEditor.ComboBoxExItem" />
+<Method Token="100663523" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663524" Name=".ctor" Variables="this;text;" ParamCnt="2" />
+<Method Token="100663525" Name=".ctor" Variables="this;text;imageIndex;" ParamCnt="3" />
+<Method Token="100663526" Name="get_Text" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663527" Name="set_Text" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663528" Name="get_ImageIndex" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663529" Name="set_ImageIndex" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663530" Name="ToString" Variables="this;V_0;" ParamCnt="1" />
+<Field Token="67109125" Name="_text" />
+<Field Token="67109126" Name="_imageIndex" />
+<Type Token="33554461" Name="FreePDFMetadataEditor.MessageHelper" />
+<Method Token="100663531" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663532" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663533" Name="RegisterWindowMessage" Variables="lpString;" ParamCnt="1" />
+<Method Token="100663534" Name="FindWindow" Variables="lpClassName;lpWindowName;" ParamCnt="2" />
+<Method Token="100663535" Name="SendMessage" Variables="hWnd;Msg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663536" Name="PostMessage" Variables="hWnd;Msg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663537" Name="SendMessage" Variables="hWnd;Msg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663538" Name="PostMessage" Variables="hWnd;Msg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663539" Name="SetForegroundWindow" Variables="hWnd;" ParamCnt="1" />
+<Method Token="100663540" Name="bringAppToFront" Variables="this;hWnd;V_0;" ParamCnt="2" />
+<Method Token="100663541" Name="sendWindowsStringMessage" Variables="this;hWnd;wParam;msg;result;V_1;sarr;len;cds;V_5;" ParamCnt="4" />
+<Method Token="100663542" Name="sendWindowsMessage" Variables="this;hWnd;Msg;wParam;lParam;result;V_1;V_2;" ParamCnt="5" />
+<Method Token="100663543" Name="getWindowId" Variables="this;className;windowName;V_0;" ParamCnt="3" />
+<Field Token="67109127" Name="WM_USER" />
+<Field Token="67109128" Name="WM_COPYDATA" />
+<Field Token="67109129" Name="HWND_BROADCAST" />
+<Field Token="67109130" Name="WM_ACTIVATEAPP" />
+<Type Token="33554462" Name="FreePDFMetadataEditor.Module" />
+<Method Token="100663544" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663545" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663546" Name="SHParseDisplayName" Variables="pszName;pbc;ppidl;sfgaoIn;psfgaoOut;" ParamCnt="5" />
+<Method Token="100663547" Name="SHOpenFolderAndSelectItems" Variables="pidlFolder;cidl;apidl;dwFlags;" ParamCnt="4" />
+<Method Token="100663548" Name="SendMessage" Variables="hWnd;wMsg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663549" Name="LockWindowUpdate" Variables="hWndLock;" ParamCnt="1" />
+<Method Token="100663550" Name="GetRelativePath" Variables="mainDirPath;absoluteFilePath;firstPathParts;secondPathParts;sameCounter;newPath;i;V_5;V_6;V_7;V_8;i;V_10;V_11;V_12;V_13;i;V_15;" ParamCnt="2" />
+<Method Token="100663551" Name="ShowMessage" Variables="msg;V_0;" ParamCnt="1" />
+<Method Token="100663552" Name="ShowQuestionDialog" Variables="msg;caption;V_0;" ParamCnt="2" />
+<Method Token="100663553" Name="ShowError" Variables="ex;" ParamCnt="1" />
+<Method Token="100663554" Name="ShowError" Variables="msg;V_0;" ParamCnt="1" />
+<Method Token="100663555" Name="ShowError" Variables="msg;ex;" ParamCnt="2" />
+<Method Token="100663556" Name="ShowError" Variables="msg;exstr;" ParamCnt="2" />
+<Method Token="100663557" Name="ShowQuestionDialogYesFocus" Variables="msg;caption;V_0;" ParamCnt="2" />
+<Method Token="100663558" Name="RegexEscape" Variables="searchpattern;V_0;" ParamCnt="1" />
+<Method Token="100663559" Name="CurrentDomain_ProcessExit" Variables="sender;e;" ParamCnt="2" />
+<Method Token="100663560" Name="IsImage" Variables="filepath;fi;V_1;V_2;" ParamCnt="1" />
+<Method Token="100663561" Name="get_Modex64" Variables="V_0;V_1;V_2;V_3;V_4;" ParamCnt="0" />
+<Method Token="100663562" Name="DeleteApplicationSettingsFile" Variables="settingsFile;fi;V_2;ex;" ParamCnt="0" />
+<Field Token="67109131" Name="ApplicationTitle" />
+<Field Token="67109132" Name="ShortApplicationTitle" />
+<Field Token="67109133" Name="DownloadURL" />
+<Field Token="67109134" Name="HelpURL" />
+<Field Token="67109135" Name="LangURL" />
+<Field Token="67109136" Name="VersionURL" />
+<Field Token="67109137" Name="StoreUrl" />
+<Field Token="67109138" Name="SelectedLanguage" />
+<Field Token="67109139" Name="args" />
+<Field Token="67109140" Name="IsCommandLine" />
+<Field Token="67109141" Name="IsFromWindowsExplorer" />
+<Field Token="67109142" Name="UserDocumentsFolder" />
+<Field Token="67109143" Name="CmdMerge" />
+<Field Token="67109144" Name="CmdSplit" />
+<Field Token="67109145" Name="CmdDelete" />
+<Field Token="67109146" Name="CmdExtract" />
+<Field Token="67109147" Name="CmdPageFrom" />
+<Field Token="67109148" Name="CmdPageTo" />
+<Field Token="67109149" Name="CmdPageOddFrom" />
+<Field Token="67109150" Name="CmdPageOddTo" />
+<Field Token="67109151" Name="CmdPageEvenFrom" />
+<Field Token="67109152" Name="CmdPageEvenTo" />
+<Field Token="67109153" Name="CmdPageEvery" />
+<Field Token="67109154" Name="CmdPageEveryFrom" />
+<Field Token="67109155" Name="CmdPageEveryTo" />
+<Field Token="67109156" Name="CmdPageRange" />
+<Field Token="67109157" Name="CmdPageContaining" />
+<Field Token="67109158" Name="CmdTitle" />
+<Field Token="67109159" Name="CmdAuthor" />
+<Field Token="67109160" Name="CmdKeywords" />
+<Field Token="67109161" Name="CmdSubject" />
+<Field Token="67109162" Name="CmdOwnerPassword" />
+<Field Token="67109163" Name="CmdUserPassword" />
+<Field Token="67109164" Name="CmdOutputFile" />
+<Field Token="67109165" Name="CmdOutputFolder" />
+<Field Token="67109166" Name="CmdHeaderText" />
+<Field Token="67109167" Name="CmdFooterText" />
+<Field Token="67109168" Name="CmdSplitBookmarks" />
+<Field Token="67109169" Name="CmdSplitBlank" />
+<Field Token="67109170" Name="CmdAddSubdirectories" />
+<Field Token="67109171" Name="CmdFiles" />
+<Field Token="67109172" Name="SelectedFilepaths" />
+<Field Token="67109173" Name="SelectedOperations" />
+<Field Token="67109174" Name="SelectedParameters" />
+<Field Token="67109175" Name="PresetFile" />
+<Field Token="67109176" Name="ImageFilter" />
+<Field Token="67109177" Name="ImageFilterForSave" />
+<Field Token="67109178" Name="DialogFilesFilter" />
+<Field Token="67109179" Name="ImagePattern" />
+<Field Token="67109180" Name="DoNotOverwriteFiles" />
+<Field Token="67109181" Name="AskBeforeOverwrite" />
+<Field Token="67109182" Name="LeaveSameDateTime" />
+<Field Token="67109183" Name="_Modex64" />
+<Type Token="33554463" Name="FreePDFMetadataEditor.GetTitleAndNumberOfPagesResult" />
+<Method Token="100663563" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109184" Name="Title" />
+<Field Token="67109185" Name="NumberOfPages" />
+<Type Token="33554464" Name="FreePDFMetadataEditor.NiceLine" />
+<Method Token="100663564" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663565" Name="get_Caption" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663566" Name="set_Caption" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663567" Name="get_CaptionMarginSpace" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663568" Name="set_CaptionMarginSpace" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663569" Name="get_CaptionPadding" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663570" Name="set_CaptionPadding" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663571" Name="get_LineVerticalAlign" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663572" Name="set_LineVerticalAlign" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663573" Name="get_CaptionOrizontalAlign" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663574" Name="set_CaptionOrizontalAlign" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663575" Name="Dispose" Variables="this;disposing;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663576" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Method Token="100663577" Name="OnPaint" Variables="this;e;ym;captionSizeF;captionLength;beforeCaption;afterCaption;V_5;V_6;V_7;V_8;V_9;V_10;V_11;" ParamCnt="2" />
+<Method Token="100663578" Name="OnResize" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663579" Name="OnFontChanged" Variables="this;e;" ParamCnt="2" />
+<Field Token="67109186" Name="components" />
+<Field Token="67109187" Name="_Caption" />
+<Field Token="67109188" Name="_CaptionMarginSpace" />
+<Field Token="67109189" Name="_CaptionPadding" />
+<Field Token="67109190" Name="_LineVerticalAlign" />
+<Field Token="67109191" Name="_CaptionOrizontalAlign" />
+<Type Token="33554465" Name="FreePDFMetadataEditor.LineVerticalAlign" />
+<Field Token="67109192" Name="value__" />
+<Field Token="67109193" Name="Top" />
+<Field Token="67109194" Name="Middle" />
+<Field Token="67109195" Name="Bottom" />
+<Type Token="33554466" Name="FreePDFMetadataEditor.CaptionOrizontalAlign" />
+<Field Token="67109196" Name="value__" />
+<Field Token="67109197" Name="Left" />
+<Field Token="67109198" Name="Center" />
+<Field Token="67109199" Name="Right" />
+<Type Token="33554467" Name="FreePDFMetadataEditor.OutputFolderHelper" />
+<Method Token="100663580" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663581" Name="SaveOutputFolder" Variables="folder;lst;lsi;cmbc;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;k;V_12;k;V_14;V_15;V_16;V_17;V_18;V_19;" ParamCnt="1" />
+<Method Token="100663582" Name="LoadOutputFolders" Variables="k;V_1;V_2;V_3;V_4;V_5;" ParamCnt="0" />
+<Type Token="33554468" Name="FreePDFMetadataEditor.Program" />
+<Method Token="100663583" Name="FreeConsole" Variables="" ParamCnt="0" />
+<Method Token="100663584" Name="AttachConsole" Variables="dwProcessId;" ParamCnt="1" />
+<Method Token="100663585" Name="AllocConsole" Variables="" ParamCnt="0" />
+<Method Token="100663586" Name="SetupLocalized" Variables="dirz;k;V_2;k;V_4;" ParamCnt="0" />
+<Method Token="100663587" Name="SetupNSILang" Variables="dirz;sw;k;V_3;" ParamCnt="0" />
+<Method Token="100663588" Name="Main" Variables="args;k;V_1;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663589" Name="InitRegistryLuminati" Variables="proc;V_1;proc2;" ParamCnt="0" />
+<Method Token="100663590" Name="SetLanguage" Variables="lang;setlang;V_2;V_3;fl;V_5;V_6;V_7;ex;V_9;key;key2;V_12;V_13;exr;" ParamCnt="0" />
+<Field Token="67109200" Name="ATTACH_PARENT_PROCESS" />
+<Field Token="67109201" Name="ERROR_ACCESS_DENIED" />
+<Type Token="33554469" Name="FreePDFMetadataEditor.RegistryHelper2" />
+<Method Token="100663591" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663592" Name="GetKeyValue" Variables="AppRegKey;keystr;key;key2;key3;V_3;V_4;V_5;V_6;V_7;V_8;" ParamCnt="2" />
+<Method Token="100663593" Name="SetKeyValue2" Variables="AppRegKey;keystr;keyvalue;pr;V_1;" ParamCnt="3" />
+<Method Token="100663594" Name="SetKeyValue" Variables="AppRegKey;keystr;keyvalue;key;key2;key3;V_3;V_4;V_5;V_6;V_7;V_8;" ParamCnt="3" />
+<Type Token="33554470" Name="FreePDFMetadataEditor.ucTextProgressBar" />
+<Method Token="100663595" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663596" Name="SetText" Variables="this;str;V_0;" ParamCnt="2" />
+<Method Token="100663597" Name="UpdatePercentage" Variables="this;curval;maxval;perc;" ParamCnt="1" />
+<Method Token="100663598" Name="zOnPaint" Variables="this;e;curval;maxval;perc;rangerect;font;brBack;V_6;fillBrush;sPoint;V_9;p;" ParamCnt="2" />
+<Method Token="100663599" Name="WndProc" Variables="this;m;V_0;V_1;graphics;font;textSize;" ParamCnt="2" />
+<Method Token="100663600" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663601" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67109202" Name="lblText" />
+<Field Token="67109203" Name="WmPaint" />
+<Field Token="67109204" Name="components" />
+<Type Token="33554471" Name="FreePDFMetadataEditor.UpdateHelper" />
+<Method Token="100663602" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663603" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663604" Name="InitializeCheckVersionWeek" Variables="lastcheck;V_1;month;day;year;dtlast;V_6;V_7;V_8;" ParamCnt="0" />
+<Method Token="100663605" Name="InitializeCheckVersion" Variables="" ParamCnt="0" />
+<Method Token="100663606" Name="bwCheckVersion_ProgressChanged" Variables="sender;e;res;V_1;V_2;V_3;fdu;resq;V_6;fdu;" ParamCnt="2" />
+<Method Token="100663607" Name="bwCheckVersion_RunWorkerCompleted" Variables="sender;e;" ParamCnt="2" />
+<Method Token="100663608" Name="bwCheckVersion_DoWork" Variables="sender;e;res;" ParamCnt="2" />
+<Method Token="100663609" Name="CheckVersionBackground" Variables="onstart;res;str;V_3;V_4;V_5;epos;price;V_8;sr;line;found;epos;title;version;app;V_16;verdotpos;vermajor;verminor;curverepos;V_21;curver;dotpos;curmajor;curminor;V_26;V_27;V_28;V_29;V_30;V_31;V_32;V_33;V_34;" ParamCnt="0" />
+<Method Token="100663610" Name="DownloadPage" Variables="uri;client;data;reader;s;V_4;ex;" ParamCnt="1" />
+<Method Token="100663611" Name="CheckVersion" Variables="onstart;str;V_1;sr;line;found;epos;title;version;app;V_9;V_10;V_11;V_12;V_13;V_14;V_15;V_16;" ParamCnt="1" />
+<Field Token="67109205" Name="bwCheckVersion" />
+<Type Token="33554472" Name="FreePDFMetadataEditor.CheckVersionResult" />
+<Method Token="100663612" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109206" Name="NewVersionReleased" />
+<Field Token="67109207" Name="ItIsNecessaryToUpdate" />
+<Field Token="67109208" Name="OutputMessage" />
+<Type Token="33554473" Name="FreePDFMetadataEditor.ResFlags" />
+<Method Token="100663613" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663614" Name="get_ResourceManager" Variables="V_0;temp;V_2;" ParamCnt="0" />
+<Method Token="100663615" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663616" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663617" Name="get_flag_belarus" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663618" Name="get_flag_china" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663619" Name="get_flag_croatia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663620" Name="get_flag_czech_republic" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663621" Name="get_flag_denmark" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663622" Name="get_flag_estonia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663623" Name="get_flag_finland" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663624" Name="get_flag_france" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663625" Name="get_flag_georgia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663626" Name="get_flag_germany" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663627" Name="get_flag_great_britain" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663628" Name="get_flag_greece" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663629" Name="get_flag_hungary" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663630" Name="get_flag_iceland" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663631" Name="get_flag_india" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663632" Name="get_flag_indonesia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663633" Name="get_flag_iran" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663634" Name="get_flag_israel" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663635" Name="get_flag_italy" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663636" Name="get_flag_japan" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663637" Name="get_flag_latvia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663638" Name="get_flag_lithuania" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663639" Name="get_flag_netherlands" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663640" Name="get_flag_norway" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663641" Name="get_flag_poland" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663642" Name="get_flag_portugal" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663643" Name="get_flag_romania" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663644" Name="get_flag_russia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663645" Name="get_flag_saudi_arabia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663646" Name="get_flag_slovakia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663647" Name="get_flag_slovenia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663648" Name="get_flag_south_korea" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663649" Name="get_flag_spain" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663650" Name="get_flag_sweden" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663651" Name="get_flag_thailand" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663652" Name="get_flag_turkey" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663653" Name="get_flag_ukraine" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663654" Name="get_flag_vietnam" Variables="obj;V_1;" ParamCnt="0" />
+<Field Token="67109209" Name="resourceMan" />
+<Field Token="67109210" Name="resourceCulture" />
+<Type Token="33554474" Name="FreePDFMetadataEditor.ResTranslate" />
+<Method Token="100663655" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663656" Name="get_ResourceManager" Variables="V_0;temp;V_2;" ParamCnt="0" />
+<Method Token="100663657" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663658" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663659" Name="get_A_new_version_has_been_released__Press_the_OK_button_to_download_the_new_version" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663660" Name="get_A_new_version_has_been_released__Would_you_like_to_download_it_now__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663661" Name="get_An_error_occured__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663662" Name="get_An_error_occured_while_protecting_PDF_File" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663663" Name="get_Change_PDF_Properties" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663664" Name="get_Creation_Date_and_Time" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663665" Name="get_Current_Custom_Date" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663666" Name="get_Current_Date" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663667" Name="get_Current_Date_and_Time" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663668" Name="get_Current_Day__DD_" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663669" Name="get_Current_Hour__HH_" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663670" Name="get_Current_Minute__MI_" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663671" Name="get_Current_Month__MM_" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663672" Name="get_Current_Second__SS_" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663673" Name="get_Current_Time" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663674" Name="get_Current_Year__YYYY_" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663675" Name="get_Directory_Name" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663676" Name="get_Directory_Path" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663677" Name="get_Download" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663678" Name="get_Download_new_version__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663679" Name="get_Encrypt_PDF" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663680" Name="get_Error" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663681" Name="get_Error__Could_not_Create_Directory_for_File" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663682" Name="get_Error__Could_not_send_Questionnaire__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663683" Name="get_Error__Wrong_User_Password_for_File" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663684" Name="get_Error_Could_not_change_Language__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663685" Name="get_Error_could_not_parse_Arguments__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663686" Name="get_Filename" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663687" Name="get_Filename_Without_Extension" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663688" Name="get_Full_File_Path" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663689" Name="get_Is_From_Windows_Explorer" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663690" Name="get_Last_Access_Date_and_Time" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663691" Name="get_Last_Write_Date_and_Time" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663692" Name="get_Operation_Cancelled__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663693" Name="get_Operation_completed_successfully__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663694" Name="get_Operation_completed_with_Errors__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663695" Name="get_Overwrite_PDF_Document" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663696" Name="get_Please_add_a_PDF_File_first__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663697" Name="get_Please_add_only_PDF_Files__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663698" Name="get_Please_add_PDF_Files_first__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663699" Name="get_Please_enter_a_Subfolder_Name__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663700" Name="get_Please_enter_a_valid_Subfolder_Name__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663701" Name="get_Please_enter_the_correct_User_Password__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663702" Name="get_Please_fill_out_the_Questionnaire__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663703" Name="get_Please_insert_a_Custom_Metadata_Property_Name__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663704" Name="get_Please_insert_a_valid_Password__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663705" Name="get_Please_specify_another_option_as_the_Output_Folder__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663706" Name="get_Same_Folder_of_PDF_Document" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663707" Name="get_Subfolder" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663708" Name="get_Subfolder_of_PDF_Document" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663709" Name="get_This_is_the_latest_version__" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663710" Name="get_Unspecified_Error" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663711" Name="get_Would_you_like_to_add_also_Subdirectories__" Variables="V_0;" ParamCnt="0" />
+<Field Token="67109211" Name="resourceMan" />
+<Field Token="67109212" Name="resourceCulture" />
+<Type Token="33554475" Name="FreePDFMetadataEditor.TranslateHelper" />
+<Method Token="100663712" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663713" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663714" Name="Translate" Variables="str;V_0;cm;trnstr;V_3;V_4;V_5;V_6;" ParamCnt="1" />
+<Field Token="67109213" Name="rm" />
+<Type Token="33554476" Name="FreePDFMetadataEditor.Properties.Resources" />
+<Method Token="100663715" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663716" Name="get_ResourceManager" Variables="V_0;temp;V_2;" ParamCnt="0" />
+<Method Token="100663717" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663718" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663719" Name="get__4dots_logo_official" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663720" Name="get__lock" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663721" Name="get_about" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663722" Name="get_add" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663723" Name="get_add1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663724" Name="get_add2" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663725" Name="get_arrow_right_blue" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663726" Name="get_brush2" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663727" Name="get_brush4" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663728" Name="get_check" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663729" Name="get_copy" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663730" Name="get_delete" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663731" Name="get_delete1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663732" Name="get_document_info" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663733" Name="get_document_info1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663734" Name="get_edit" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663735" Name="get_exit" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663736" Name="get_flash" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663737" Name="get_folder" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663738" Name="get_folder_add" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663739" Name="get_folder_add1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663740" Name="get_folder1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663741" Name="get_help2" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663742" Name="get_import1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663743" Name="get_information" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663744" Name="get_information1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663745" Name="get_lock24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663746" Name="get_onlinepdfapps_com_main_screen_700_373" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663747" Name="get_pdf_properties_changer" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663748" Name="get_social_twitter_box_white_icon_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663749" Name="get_youtube_32" Variables="obj;V_1;" ParamCnt="0" />
+<Field Token="67109214" Name="resourceMan" />
+<Field Token="67109215" Name="resourceCulture" />
+<Type Token="33554477" Name="FreePDFMetadataEditor.Properties.Settings" />
+<Method Token="100663750" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663751" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663752" Name="get_Default" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663753" Name="get_Maximized" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663754" Name="set_Maximized" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663755" Name="get_Left" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663756" Name="set_Left" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663757" Name="get_Top" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663758" Name="set_Top" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663759" Name="get_Height" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663760" Name="set_Height" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663761" Name="get_Width" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663762" Name="set_Width" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663763" Name="get_LastVersion" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663764" Name="set_LastVersion" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663765" Name="get_LanguagesDownloaded" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663766" Name="set_LanguagesDownloaded" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663767" Name="get_Language" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663768" Name="set_Language" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663769" Name="get_OutputFolder1" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663770" Name="set_OutputFolder1" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663771" Name="get_OutputFolder2" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663772" Name="set_OutputFolder2" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663773" Name="get_OutputFolder3" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663774" Name="set_OutputFolder3" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663775" Name="get_OutputFolder4" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663776" Name="set_OutputFolder4" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663777" Name="get_OutputFolder5" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663778" Name="set_OutputFolder5" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663779" Name="get_OutputFolderIndex" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663780" Name="set_OutputFolderIndex" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663781" Name="get_KeepBackup" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663782" Name="set_KeepBackup" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663783" Name="get_LastCheckVersion" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663784" Name="set_LastCheckVersion" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663785" Name="get_Price" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663786" Name="set_Price" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663787" Name="get_KeepFolderStructure" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663788" Name="set_KeepFolderStructure" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663789" Name="get_SpecialSpecialItem" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663790" Name="set_SpecialSpecialItem" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663791" Name="get_SpecialFind" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663792" Name="set_SpecialFind" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663793" Name="get_SpecialItemIndex" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663794" Name="set_SpecialItemIndex" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663795" Name="get_SpecialFindText" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663796" Name="set_SpecialFindText" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663797" Name="get_SpecialReplaceText" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663798" Name="set_SpecialReplaceText" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663799" Name="get_SpecialRegExp" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663800" Name="set_SpecialRegExp" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663801" Name="get_SpecialWildcards" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663802" Name="set_SpecialWildcards" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663803" Name="get_ClearMetadata" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663804" Name="set_ClearMetadata" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663805" Name="get_FirstTimeRun" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663806" Name="set_FirstTimeRun" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663807" Name="get_MTitle" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663808" Name="set_MTitle" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663809" Name="get_MAuthor" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663810" Name="set_MAuthor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663811" Name="get_MSubject" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663812" Name="set_MSubject" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663813" Name="get_MKeywords" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663814" Name="set_MKeywords" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663815" Name="get_MCreator" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663816" Name="set_MCreator" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663817" Name="get_MCreationDate" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663818" Name="set_MCreationDate" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663819" Name="get_MModificationDate" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663820" Name="set_MModificationDate" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663821" Name="get_CTitle" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663822" Name="set_CTitle" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663823" Name="get_CAuhor" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663824" Name="set_CAuhor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663825" Name="get_CSubject" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663826" Name="set_CSubject" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663827" Name="get_CKeywords" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663828" Name="set_CKeywords" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663829" Name="get_CCreator" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663830" Name="set_CCreator" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663831" Name="get_CCreationDate" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663832" Name="set_CCreationDate" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663833" Name="get_CModificationDate" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663834" Name="set_CModificationDate" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663835" Name="get_MCustomMetadata" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663836" Name="set_MCustomMetadata" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663837" Name="get_CheckWeek" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663838" Name="set_CheckWeek" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663839" Name="get_ExploreOutputFolder" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663840" Name="set_ExploreOutputFolder" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663841" Name="get_KeepCreationDate" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663842" Name="set_KeepCreationDate" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663843" Name="get_KeepLastModificationDate" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663844" Name="set_KeepLastModificationDate" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663845" Name="get_ShowMessageOnSucess" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663846" Name="set_ShowMessageOnSucess" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663847" Name="get_ShowPromotion" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663848" Name="set_ShowPromotion" Variables="this;value;" ParamCnt="2" />
+<Field Token="67109216" Name="defaultInstance" />
+<Type Token="33554478" Name="FreePDFMetadataEditor.frmProgress/HideFormDelegate" />
+<Method Token="100663849" Name=".ctor" Variables="this;object;method;" ParamCnt="3" />
+<Method Token="100663850" Name="Invoke" Variables="this;" ParamCnt="1" />
+<Method Token="100663851" Name="BeginInvoke" Variables="this;callback;object;" ParamCnt="3" />
+<Method Token="100663852" Name="EndInvoke" Variables="this;result;" ParamCnt="2" />
+<Type Token="33554479" Name="FreePDFMetadataEditor.frmProgress/ShowFormDelegate" />
+<Method Token="100663853" Name=".ctor" Variables="this;object;method;" ParamCnt="3" />
+<Method Token="100663854" Name="Invoke" Variables="this;" ParamCnt="1" />
+<Method Token="100663855" Name="BeginInvoke" Variables="this;callback;object;" ParamCnt="3" />
+<Method Token="100663856" Name="EndInvoke" Variables="this;result;" ParamCnt="2" />
+<Type Token="33554480" Name="FreePDFMetadataEditor.MessageHelper/COPYDATASTRUCT" />
+<Field Token="67109217" Name="dwData" />
+<Field Token="67109218" Name="cbData" />
+<Field Token="67109219" Name="lpData" />
+<Type Token="33554435" Name="A.AssemblyInfoAttribute" />
+<Method Token="100663305" Name="" Variables="this;str;" ParamCnt="2" />
+</Assembly></Mappings>
