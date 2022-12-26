@@ -190,6 +190,15 @@ namespace FreePDFMetadataEditor
                 {
                     this.Top = Properties.Settings.Default.Top;
                 }
+                
+                if (this.Top < 0)
+                {
+                    this.Top = 0;
+                }
+                if (this.Left < 0)
+                {
+                    this.Left = 0;
+                }
             }
 
         }
@@ -197,8 +206,10 @@ namespace FreePDFMetadataEditor
         private void SaveSizeLocation()
         {
             Properties.Settings.Default.Maximized = (this.WindowState == FormWindowState.Maximized);
-            Properties.Settings.Default.Left = this.Left;
-            Properties.Settings.Default.Top = this.Top;
+            if (this.WindowState != FormWindowState.Minimized){
+                Properties.Settings.Default.Left = this.Left;
+                Properties.Settings.Default.Top = this.Top;
+            }
             Properties.Settings.Default.Width = this.Width;
             Properties.Settings.Default.Height = this.Height;
             Properties.Settings.Default.Save();
